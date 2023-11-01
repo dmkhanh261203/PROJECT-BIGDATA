@@ -1,0 +1,1249 @@
+ID,Date,Time,Page Name,AVR_Age,product_name,Category,Reaction,Comments,Share ,Location,Review Rating
+1,01/05/2022,10:15:00 PM,Bonolota,23,Shorts,Clothing,415,66,7,Maryland,3.3
+2,01/06/2022,10:14:00 PM,Mystique Glint,67,Blouse,Clothing,388,65,49,Wisconsin,4.8
+3,01/06/2022,9:37:00 PM,Face of Korea,23,Coat,Outerwear,689,436,428,Idaho,4.1
+4,01/07/2022,4:58:00 PM,Khan Brothers,26,Sunglasses,Accessories,948,71,58,Wyoming,3.4
+5,01/09/2022,11:03:00 PM,Carnesia,52,Shorts,Clothing,6000,2000,106,Indiana,3.6
+6,1/14/2022,10:10:00 PM,Dorado Bangladesh,52,Dress,Clothing,387,59,27,Texas,2.7
+7,1/16/2022,4:18:00 PM,Shohodor Fashion,52,Handbag,Accessories,138,165,56,Ohio,3.2
+8,1/19/2022,7:35:00 PM,Orchild-redefine beauty,35,Boots,Footwear,24000,20000,4200,Kansas,4.4
+9,1/19/2022,8:42:00 PM,Khandani Khanapina ,24,Pants,Clothing,1500,381,179,South Carolina,4.9
+10,1/22/2022,7:36:00 PM,Tarana's Fashion World,43,Boots,Footwear,564,386,214,Michigan,4.8
+11,1/23/2022,9:27:00 PM,Urbi,25,Skirt,Clothing,6400,3400,184,Nebraska,2.8
+12,1/23/2022,11:42:00 PM,Plaboni's Fashion Gallery,46,Sneakers,Footwear,2000,199,165,Wisconsin,2.9
+13,1/25/2022,10:36:00 PM,Delicious Cake Bake,22,Jewelry,Accessories,2500,323,25,Illinois,3.2
+14,1/25/2022,10:39:00 PM,Angels by Jamila Bristy,70,T-shirt,Clothing,322,213,6,Louisiana,3.5
+15,1/26/2022,7:39:00 PM,Jiniya Creation,49,Sandals,Footwear,376,247,17,Ohio,4.1
+16,1/27/2022,6:03:00 PM,Niton Diamond,48,Boots,Footwear,5300,1300,100,Maryland,4.1
+17,1/27/2022,9:31:00 PM,RAID,59,Coat,Outerwear,398,66,4,Texas,4.8
+18,1/28/2022,9:32:00 PM,Abaya Closet,39,Belt,Accessories,2700,1000,19,Illinois,2.8
+19,1/28/2022,10:26:00 PM,The Mart Bangladesh,30,Sunglasses,Accessories,934,433,20,Pennsylvania,4.7
+20,1/28/2022,10:10:00 PM,Zircon,37,Sandals,Footwear,764,110,154,Alabama,4.8
+21,1/30/2022,11:18:00 PM,Sananda Fashion,56,Boots,Footwear,6200,2600,279,West Virginia,2.9
+22,02/01/2022,4:45:00 PM,Nahida Fashion House,67,Hoodie,Clothing,181,380,126,Nevada,2.6
+23,02/02/2022,11:41:00 PM,BABON,40,Hat,Accessories,950,360,23,Florida,3.3
+24,02/03/2022,4:22:00 PM,Mulkzade,24,Shorts,Clothing,6300,2100,144,Virginia,3.4
+25,02/04/2022,8:48:00 PM,Flounce,43,Backpack,Accessories,6200,2300,189,Kentucky,3.6
+26,02/04/2022,11:00:00 PM,Nurjahan's,45,Shorts,Clothing,121,15,9,Connecticut,3.8
+27,02/05/2022,7:54:00 AM,Clovelly Trend,33,Belt,Accessories,7600,4700,370,Montana,3.4
+28,02/06/2022,8:59:00 PM,La Vencee,53,Shorts,Clothing,4600,2900,200,Montana,3.8
+29,02/06/2022,6:52:00 PM,Diamond Corner,44,Socks,Clothing,928,617,71,Nebraska,3.3
+30,02/07/2022,3:34:00 PM,Baking Tools Cumilla,23,Shoes,Footwear,197,227,265,Massachusetts,4.8
+31,02/08/2022,10:08:00 PM,Perfecto,59,Sneakers,Footwear,2000,1000,418,North Carolina,3.9
+32,02/08/2022,10:19:00 PM,Reasonable Fashion by Ani,68,Backpack,Accessories,491,340,209,Montana,4.2
+33,02/09/2022,11:25:00 PM,Style by Tanzi,46,Dress,Clothing,409,237,174,Washington,4.7
+34,02/10/2022,9:59:00 PM,Mollywaiz,56,Boots,Footwear,916,261,435,Virginia,2.7
+35,02/10/2022,7:46:00 PM,Sunnah,40,Socks,Clothing,5700,11000,529,Georgia,3.8
+36,02/11/2022,11:07:00 PM,La Ta Ra,61,Dress,Clothing,7600,5900,1000,Delaware,3.6
+37,02/12/2022,9:09:00 PM,SLN Fashion,53,Handbag,Accessories,2700,1400,97,West Virginia,2.9
+38,02/12/2022,7:31:00 PM,Nuqi ShopBD,29,Blouse,Clothing,15000,3700,1700,Wyoming,3.9
+39,02/12/2022,10:35:00 PM,Anady's,44,Belt,Accessories,413,114,7,New Mexico,4.7
+40,02/12/2022,9:41:00 PM,Trendy Beauty Lover,43,Pants,Clothing,345,63,6,Nebraska,3.3
+41,02/12/2022,10:12:00 PM,Blossom & Bubbsle,40,Sneakers,Footwear,443,238,169,Washington,4.2
+42,2/13/2022,9:20:00 PM,Taheer Boutique,55,Boots,Footwear,9600,3800,369,Hawaii,2.6
+43,2/13/2022,11:40:00 PM,Exclusive Warebd,66,Sunglasses,Accessories,3700,1400,175,Louisiana,4.9
+44,2/15/2022,11:22:00 PM,Darawiz,50,Hat,Accessories,3700,2200,127,Tennessee,3.6
+45,2/15/2022,9:10:00 PM,Dobazar.com,57,Coat,Outerwear,887,329,287,South Dakota,4.7
+46,2/17/2022,9:59:00 PM,Limas Beauty Shop,42,Jacket,Outerwear,735,364,60,Delaware,3.2
+47,2/17/2022,4:35:00 PM,Shimla Abaya Collection,55,Hoodie,Clothing,122,324,190,Virginia,3.6
+48,2/18/2022,9:10:00 PM,Eye Mind Valley,25,Boots,Footwear,4800,1900,143,Utah,3.6
+49,2/18/2022,8:43:00 PM,Girl?s Hood,22,T-shirt,Clothing,931,325,74,California,3.2
+50,2/18/2022,4:40:00 PM,Hello pretties,49,Sweater,Clothing,100,311,906,Idaho,2.8
+51,2/19/2022,10:16:00 PM,Aohon Bari,70,Shoes,Footwear,4700,2600,135,Texas,4
+52,2/19/2022,5:29:00 PM,Karukonna,56,Scarf,Accessories,336,285,17,Tennessee,4.4
+53,2/19/2022,10:48:00 PM,Iraniya Herbal Beauty Solution,52,Dress,Clothing,493,318,15,Tennessee,3.4
+54,2/21/2022,11:48:00 PM,Da Gorgeous Collection,65,Jacket,Outerwear,2400,1300,86,Washington,5
+55,2/21/2022,10:54:00 PM,Choosett,24,Shoes,Footwear,5000,2400,241,Alabama,3.1
+56,2/21/2022,9:49:00 PM,Hater Chowa,32,Backpack,Accessories,3800,2500,235,Nebraska,4.2
+57,2/21/2022,4:48:00 PM,Trendy Beauty Lovers,57,Dress,Clothing,5400,2800,180,Alabama,3.3
+58,2/21/2022,12:03:00 PM,Alyal's,35,Shirt,Clothing,348,302,16,Illinois,2.9
+59,2/22/2022,9:54:00 PM,Glam Closet,69,Jacket,Outerwear,8000,2800,200,Wisconsin,4.7
+60,2/22/2022,11:00:00 PM,Sainika's Fashion House,30,Sunglasses,Accessories,1900,1500,145,Nebraska,4
+61,2/23/2022,9:04:00 PM,Jhinuk's Collection ,37,Jacket,Outerwear,835,334,48,North Dakota,4.6
+62,2/24/2022,10:24:00 PM,erasiasupplies.com,19,Coat,Outerwear,1000,403,38,Mississippi,3.8
+63,2/24/2022,10:35:00 PM,Shari Ghor,53,Sweater,Clothing,4200,3400,1200,Iowa,3.6
+64,2/24/2022,9:37:00 PM,Apsara by Antara,25,Sneakers,Footwear,4500,928,98,Mississippi,4.1
+65,2/24/2022,8:55:00 PM,TPHLOX,47,Shoes,Footwear,2300,1200,98,Colorado,2.7
+66,2/24/2022,7:50:00 PM,Ismita Lifestyle,18,Sunglasses,Accessories,3100,2300,346,Nebraska,4.3
+67,2/25/2022,10:52:00 PM,Makeup Chari,22,Shorts,Clothing,815,751,16,Virginia,4.9
+68,2/26/2022,10:08:00 PM,Limited Edition BD,69,Hoodie,Clothing,3700,1700,108,Louisiana,4.2
+69,2/26/2022,4:36:00 PM,Uronto,55,Scarf,Accessories,3400,2400,148,Maryland,2.8
+70,2/26/2022,10:13:00 PM,Heyza,19,Sandals,Footwear,322,130,20,Minnesota,4.9
+71,2/28/2022,3:49:00 PM,Pearl Palace,23,Hat,Accessories,196,620,137,Maine,2.8
+72,03/01/2022,7:40:00 PM,Desire-Your Modest Lifestyle,54,Shoes,Footwear,8100,3200,310,Texas,2.9
+73,03/01/2022,4:15:00 PM,SHIJANG,52,Sneakers,Footwear,342,256,245,Missouri,2.5
+74,03/02/2022,10:44:00 PM,SHUNDOR,64,Backpack,Accessories,366,45,11,Mississippi,2.7
+75,03/03/2022,11:45:00 PM,Meganil,33,Belt,Accessories,5400,1200,99,Michigan,3.3
+76,03/03/2022,9:25:00 PM,Luxique,40,Shirt,Clothing,7000,2600,151,Colorado,3.7
+77,03/03/2022,4:02:00 PM,Borka World,26,Skirt,Clothing,4600,1400,153,Florida,4
+78,03/03/2022,9:01:00 PM,Be Beautiful 2,31,Gloves,Accessories,451,199,176,Montana,4.1
+79,03/06/2022,10:17:00 PM,Fashion By Arora,23,Gloves,Accessories,3000,1900,47,Wisconsin,4.1
+80,03/06/2022,8:15:00 PM,Adiyat,52,Handbag,Accessories,2300,1400,111,Wisconsin,2.5
+81,03/06/2022,6:00:00 PM,Mehedi By Nowrin,21,Socks,Clothing,9000,46,1000,Delaware,4.2
+82,03/08/2022,11:22:00 PM,Mojar Toh,31,Backpack,Accessories,1600,1200,106,North Carolina,4.7
+83,03/08/2022,12:20:00 PM,Dhakaiya's Homemade Food,63,Jeans,Clothing,976,115,14,New York,2.7
+84,03/09/2022,6:32:00 PM,Gems Gallery & Diamond,46,Skirt,Clothing,532,344,176,California,3
+85,03/10/2022,11:11:00 PM,Hijab Prio,44,Hoodie,Clothing,19000,4400,567,Montana,4.8
+86,03/10/2022,9:38:00 PM,Deshi Shari,57,Jewelry,Accessories,3200,3100,277,North Carolina,4.4
+87,03/10/2022,4:21:00 PM,Fast Value BD,50,Sneakers,Footwear,5100,1900,193,Ohio,4.3
+88,03/10/2022,6:31:00 PM,Bismillah Fashion by Sonia,33,Shirt,Clothing,319,75,36,Alaska,2.5
+89,03/10/2022,1:10:00 PM,Estella,19,Sunglasses,Accessories,471,40,8,Pennsylvania,4.9
+90,03/11/2022,11:19:00 PM,Korean Mart - Bangladesh,68,Dress,Clothing,733,565,411,Maine,4.9
+91,03/11/2022,10:34:00 PM,Peach & Pink,27,Shoes,Footwear,7100,2900,305,Texas,3.9
+92,03/11/2022,10:08:00 PM,Fashion By Zainab,61,Belt,Accessories,236,246,182,New Jersey,4.1
+93,03/12/2022,10:20:00 PM,Dui Konna,38,Shirt,Clothing,4700,2600,122,Wyoming,3.3
+94,03/12/2022,1:51:00 PM,Tarani Borkha Bazar,28,Boots,Footwear,2500,290,20,Michigan,4.1
+95,3/13/2022,11:44:00 PM,Hijab Fashion wholesale BD,39,Hoodie,Clothing,19000,8200,782,Ohio,3.7
+96,3/13/2022,10:44:00 PM,Meganil,18,Jeans,Clothing,5200,2000,130,West Virginia,3.1
+97,3/14/2022,7:30:00 PM,Waania,24,Jacket,Outerwear,4800,1300,108,Virginia,3
+98,3/14/2022,9:29:00 PM,ThirdEye Shoppers,64,Jacket,Outerwear,276,219,34,Vermont,3.4
+99,3/15/2022,10:02:00 PM,Be Princess,51,Sandals,Footwear,5800,4500,77,Alaska,2.7
+100,3/16/2022,11:33:00 PM,Ehan's,27,Dress,Clothing,10000,9400,571,Minnesota,3.1
+101,3/16/2022,10:09:00 PM,Arisha Fashion House,48,Sweater,Clothing,7800,2800,147,Colorado,4
+102,3/16/2022,6:35:00 PM,Make You Up by Fairuz's,69,Gloves,Accessories,495,628,511,Rhode Island,3.6
+103,3/17/2022,8:05:00 PM,Styliya,59,Sunglasses,Accessories,5400,2000,137,New Jersey,3.6
+104,3/17/2022,10:55:00 PM,Cooking Stove,59,Belt,Accessories,18000,4900,106,Nevada,3.3
+105,3/19/2022,5:00:00 PM,Trend & Style Zone,42,Hat,Accessories,2000,115,427,Minnesota,4.1
+106,3/19/2022,11:06:00 PM,Bithy's Gallery,39,Hat,Accessories,660,311,159,Delaware,4.3
+107,3/19/2022,9:32:00 PM,Maheroo Style,32,Blouse,Clothing,378,201,13,Illinois,3.2
+108,3/20/2022,7:41:00 PM,BABON,68,Shoes,Footwear,6000,3300,111,Washington,3.9
+109,3/20/2022,9:48:00 PM,Feature,41,Skirt,Clothing,6900,5400,232,Alaska,5
+110,3/20/2022,11:56:00 PM,Style by Tanzi,31,Sneakers,Footwear,4300,2100,55,Michigan,3.4
+111,3/20/2022,9:38:00 PM,Imsak Shop Bf,58,T-shirt,Clothing,674,80,170,Georgia,3.8
+112,3/23/2022,10:53:00 PM,Karu's Closet,28,Handbag,Accessories,5200,2900,101,West Virginia,2.9
+113,3/23/2022,9:15:00 PM,Anika Fashion House ,63,Sweater,Clothing,4200,2700,97,Arizona,2.6
+114,3/23/2022,10:06:00 PM,Mariyam's Ev,64,Gloves,Accessories,184,82,7,Colorado,4.3
+115,3/24/2022,10:40:00 PM,Colonsoi,66,Dress,Clothing,4300,6100,760,Tennessee,2.8
+116,3/25/2022,10:09:00 PM,Maisha's-Raiment,31,Dress,Clothing,394,253,137,Iowa,4.5
+117,3/26/2022,9:32:00 PM,Sarafan's Boutique,55,Blouse,Clothing,130,73,129,Kansas,3.8
+118,3/27/2022,4:02:00 PM,PoroshmoniShari,32,Shirt,Clothing,5550,1900,153,Oklahoma,3
+119,3/28/2022,8:42:00 PM,6 Season's Gallery,50,Boots,Footwear,2300,141,67,Nebraska,3.3
+120,3/28/2022,9:39:00 PM,StyleE,58,Jacket,Outerwear,3000,2000,682,Maryland,3.1
+121,3/28/2022,3:57:00 PM,Mohsina's closet,18,Backpack,Accessories,3000,2000,65,Pennsylvania,3.5
+122,3/29/2022,3:57:00 PM,Hijabiana,39,Pants,Clothing,3000,1000,103,Arizona,4.6
+123,3/29/2022,11:34:00 PM,Colors by Liuny,56,Boots,Footwear,626,165,17,Oklahoma,4.1
+124,3/30/2022,8:29:00 PM,Stylea,37,Socks,Clothing,3000,1000,69,Montana,3.6
+125,3/30/2022,8:14:00 PM,Khanapina ,46,Scarf,Accessories,3000,833,100,Wyoming,2.9
+126,3/31/2022,5:09:00 PM,Rapaj Creation,52,Blouse,Clothing,129,149,76,Idaho,4.8
+127,3/31/2022,10:52:00 PM,Doogdoogi,70,Belt,Accessories,305,45,11,Pennsylvania,3.2
+128,3/31/2022,11:34:00 PM,Budget Queen,61,Sunglasses,Accessories,258,25,13,Montana,4.3
+129,3/31/2022,10:50:00 PM,Rimjhim,33,Boots,Footwear,401,77,10,Ohio,4.1
+130,04/02/2022,11:14:00 PM,Shop.glamozen,65,Sandals,Footwear,2800,78,6,Mississippi,4.6
+131,04/02/2022,10:37:00 PM,Blinqle,41,Gloves,Accessories,328,127,10,Idaho,3.8
+132,04/02/2022,10:00:00 PM,The Look Book,19,Skirt,Clothing,362,262,17,Virginia,4.5
+133,04/02/2022,10:31:00 PM,Fari's armoire,33,Skirt,Clothing,3000,642,18,Idaho,3.1
+134,04/02/2022,8:15:00 PM,Amoree The Beauty House,53,Blouse,Clothing,6000,907,31,Louisiana,2.9
+135,04/03/2022,12:28:00 PM,Anzum's Pastry Corner,54,Handbag,Accessories,1900,186,21,Colorado,3.8
+136,04/04/2022,9:00:00 PM,Ummah's Kitchen,36,Boots,Footwear,467,116,4,West Virginia,4.1
+137,04/04/2022,11:23:00 PM,Manic By Rabia,56,Boots,Footwear,1137,497,49,Rhode Island,3.1
+138,04/04/2022,7:13:00 PM,Creamerio,28,Sweater,Clothing,1700,629,36,North Carolina,5
+139,04/04/2022,11:46:00 PM,Classy Zone,34,Socks,Clothing,279,70,7,Maine,4.5
+140,04/04/2022,10:48:00 PM,Miraan ,43,Gloves,Accessories,11000,1000,121,Iowa,2.8
+141,04/04/2022,8:11:00 PM,Wear,54,Shorts,Clothing,118,189,498,Kentucky,3.2
+142,04/05/2022,7:02:00 PM,Faria's Fashion BD,37,Boots,Footwear,850,269,45,Massachusetts,3.1
+143,04/05/2022,10:22:00 PM,Kingsvisionbd.Com,33,Jacket,Outerwear,998,569,41,New York,3.3
+144,04/05/2022,11:12:00 PM,MAJESTICA,33,Scarf,Accessories,3000,877,14,Nebraska,3.4
+145,04/05/2022,10:16:00 PM,BBG Lifestyle,55,Jacket,Outerwear,2000,387,17,Oklahoma,3.8
+146,04/06/2022,7:12:00 PM,The Dessert Corner,63,Jewelry,Accessories,1600,379,26,Oklahoma,3.5
+147,04/06/2022,10:55:00 PM,Nosepin World,52,Hoodie,Clothing,2000,462,47,Rhode Island,4.8
+148,04/06/2022,8:44:00 PM,Silver Coin,23,T-shirt,Clothing,159,399,116,Maine,3.9
+149,04/06/2022,10:11:00 PM,Chinese Fashion Hub,70,Shirt,Clothing,485,276,249,Arkansas,3.4
+150,04/07/2022,11:52:00 PM,Sanvee's Dream,64,Shirt,Clothing,479,155,60,New Mexico,2.6
+151,04/07/2022,7:49:00 PM,Cosmetiva,22,Coat,Outerwear,13000,2500,358,Hawaii,3.1
+152,04/07/2022,11:05:00 PM,Sreyoshi,46,T-shirt,Clothing,364,378,101,Idaho,3.3
+153,04/07/2022,9:23:00 PM,Simrin Designer's Choice,65,Hoodie,Clothing,10000,954,102,South Carolina,2.8
+154,04/08/2022,10:42:00 PM,Pure Bake BD,18,Sunglasses,Accessories,3400,666,55,Nevada,4.3
+155,04/08/2022,1:40:00 PM,HamaanDista,45,Blouse,Clothing,6700,765,68,South Carolina,2.7
+156,04/08/2022,5:06:00 PM,GoodiesDeal,56,Hoodie,Clothing,4900,482,88,Maryland,4.4
+157,04/09/2022,4:12:00 PM,GlamDust,49,Skirt,Clothing,4000,942,107,Tennessee,3.9
+158,04/09/2022,11:53:00 PM,Mahiya's Collection,66,Shorts,Clothing,516,273,51,Arkansas,3
+159,04/09/2022,8:58:00 PM,Shopaholic We,27,Jeans,Clothing,1000,680,442,Arizona,4
+160,04/10/2022,7:14:00 PM,Henna By Methila ,69,Jacket,Outerwear,2000,675,25,Ohio,3.7
+161,04/10/2022,12:37:00 PM,Belassea BD,66,Hoodie,Clothing,2100,416,12,North Dakota,3.8
+162,04/10/2022,9:30:00 PM,Taazra,45,Shirt,Clothing,452,222,13,Vermont,3.3
+163,04/10/2022,11:24:00 PM,Clothing Express,31,T-shirt,Clothing,316,67,17,Minnesota,3.6
+164,04/11/2022,7:39:00 PM,Jotey,33,Blouse,Clothing,2100,157,77,Idaho,3.9
+165,04/11/2022,10:18:00 PM,ZaynMyza Bangladesh,43,Skirt,Clothing,374,499,19,Maryland,3.5
+166,04/11/2022,8:20:00 PM,Twin's Butterfly,25,Backpack,Accessories,521,508,45,South Carolina,3.4
+167,04/11/2022,9:11:00 PM,BBG Lifestyle,46,Shorts,Clothing,3000,432,26,California,4.7
+168,04/11/2022,3:17:00 PM,Nurjahan's,67,Shirt,Clothing,107,28,49,Georgia,3
+169,04/12/2022,2:21:00 PM,Focallure Bangladesh,26,Backpack,Accessories,1000,1100,121,Vermont,3.9
+170,04/12/2022,7:55:00 PM,Labony Fashion,35,Shoes,Footwear,1900,410,83,Georgia,4.5
+171,04/12/2022,11:27:00 PM,BD Beauty Glamorous,61,Skirt,Clothing,561,235,22,New Jersey,4.1
+172,04/12/2022,3:02:00 PM,Korean Mart - Bangladesh,26,Dress,Clothing,1900,376,119,Utah,4.5
+173,04/12/2022,5:05:00 PM,Sarafan's Boutique,39,Hat,Accessories,1000,66,10,Utah,4
+174,04/12/2022,8:36:00 PM,JK Foreign Brands,69,Handbag,Accessories,1700,160,7,North Carolina,4.3
+175,04/12/2022,11:12:00 PM,Dressed By Rumpa,32,Handbag,Accessories,249,187,17,Florida,3.6
+176,04/12/2022,9:33:00 PM,Top BD Bazar,20,Blouse,Clothing,176,89,11,Wisconsin,3.1
+177,04/12/2022,8:38:00 PM,Urbi,25,Scarf,Accessories,167,136,14,Tennessee,2.6
+178,04/12/2022,10:00:00 PM,Essence of Silk,56,Jewelry,Accessories,473,90,15,Arizona,3.4
+179,04/12/2022,11:08:00 PM,Najia's Bucketlish,63,Skirt,Clothing,1000,266,16,Oregon,2.9
+180,04/12/2022,9:46:00 PM,ELA ALI,34,Hoodie,Clothing,2000,403,19,Virginia,5
+181,4/13/2022,1:04:00 PM,Emotion Bazaar,29,Scarf,Accessories,3100,358,73,Maryland,4.6
+182,4/13/2022,7:35:00 PM,Emporium JFP,43,Jeans,Clothing,2100,324,42,Arkansas,3.3
+183,4/13/2022,11:49:00 PM,ZeluXia BD,39,Jacket,Outerwear,375,490,17,Texas,2.9
+184,4/13/2022,12:23:00 PM,Ogerio.com,33,T-shirt,Clothing,379,369,13,Vermont,4.9
+185,4/13/2022,10:04:00 PM,The Lafz,51,Pants,Clothing,510,1900,393,Wyoming,5
+186,4/14/2022,7:37:00 PM,Ohona's Dream World,65,Shoes,Footwear,525,277,26,Alabama,4.5
+187,4/14/2022,12:03:00 PM,My Lovely Kitchen,51,Jacket,Outerwear,1400,462,55,Maine,3.7
+188,4/14/2022,11:15:00 PM,Cook with Musafa,70,Scarf,Accessories,1500,453,25,South Dakota,2.8
+189,4/14/2022,4:40:00 PM,Beautysiaa,40,T-shirt,Clothing,1000,75,5,West Virginia,3.5
+190,4/14/2022,11:28:00 PM,My Collection,19,Dress,Clothing,170,90,34,Ohio,3
+191,4/15/2022,11:53:00 PM,Try dry Fish,28,Coat,Outerwear,756,520,25,Arizona,4.3
+192,4/15/2022,11:30:00 PM,Trendy Beauty Lover,51,Sweater,Clothing,304,89,49,Ohio,3.6
+193,4/16/2022,10:43:00 PM,Spark N Shine,32,Hat,Accessories,736,735,397,New Mexico,4.4
+194,4/16/2022,2:28:00 PM,Dohora,26,Backpack,Accessories,2000,38,166,South Dakota,4.1
+195,4/16/2022,12:45:00 PM,The Lafz,50,Socks,Clothing,1500,3400,94,Oklahoma,2.8
+196,4/16/2022,8:29:00 PM,Emporium by Ayaat,68,Jewelry,Accessories,1900,198,49,Connecticut,2.8
+197,4/16/2022,10:52:00 PM,JWAF- Our Design Your Desire,33,Boots,Footwear,158,105,23,Wisconsin,4.9
+198,4/16/2022,12:18:00 PM,ALLER,56,Coat,Outerwear,252,144,94,New Hampshire,4.1
+199,4/17/2022,9:34:00 PM,Groundist,57,Sweater,Clothing,1700,173,5,Nebraska,3
+200,4/17/2022,12:47:00 PM,Max's Shoppers,58,Blouse,Clothing,1900,462,24,Nevada,3
+201,4/17/2022,4:13:00 PM,Antara's Closet,40,Belt,Accessories,343,107,24,New York,3
+202,4/17/2022,11:16:00 PM,Magnific Mart,37,Hat,Accessories,2000,782,7,Pennsylvania,3.2
+203,4/18/2022,11:11:00 PM,NOTE Cosmetics Bangladesh,36,Sandals,Footwear,4100,962,102,Delaware,2.7
+204,4/18/2022,10:44:00 PM,Dress Maker,29,Boots,Footwear,172,156,196,Mississippi,3.8
+205,4/18/2022,9:23:00 PM,A.S Classic Fashion,65,Jacket,Outerwear,197,213,149,Iowa,3.5
+206,4/18/2022,12:09:00 PM,La Ta Ra,44,Dress,Clothing,140,74,50,Utah,3.8
+207,4/19/2022,10:20:00 PM,What You Like,34,Jeans,Clothing,546,335,193,Maryland,3.8
+208,4/19/2022,9:18:00 PM,BlinqDrobe,31,Shorts,Clothing,340,310,9,Utah,3.4
+209,4/20/2022,7:49:00 PM,Little Angels,28,Shirt,Clothing,6200,201,66,Rhode Island,2.9
+210,4/20/2022,11:03:00 PM,UAE Haul BD,66,Coat,Outerwear,828,207,212,Maryland,3.4
+211,4/20/2022,9:03:00 PM,BD Budget Beauty - BBB,68,Coat,Outerwear,3000,982,31,Hawaii,4.7
+212,4/21/2022,9:37:00 PM,Hello Baby,37,T-shirt,Clothing,303,229,23,Connecticut,3.9
+213,4/21/2022,9:23:00 PM,Amlaki,58,Sweater,Clothing,1300,257,28,Illinois,3.6
+214,4/21/2022,5:37:00 PM,ZASKA,28,Skirt,Clothing,1000,195,121,California,3.7
+215,4/21/2022,10:19:00 PM,Exclusia,54,Blouse,Clothing,2000,407,18,Connecticut,3.1
+216,4/22/2022,3:19:00 PM,Nabila,21,Sneakers,Footwear,1300,69,7,Colorado,4.9
+217,4/22/2022,4:30:00 PM,Eziclick,45,Backpack,Accessories,2200,617,39,Colorado,2.6
+218,4/23/2022,2:53:00 PM,Nurjahan's,57,Socks,Clothing,291,41,59,Georgia,4.2
+219,4/23/2022,7:35:00 PM,Ronger Uthan,47,Jewelry,Accessories,797,301,62,North Dakota,4.8
+220,4/23/2022,9:26:00 PM,Flourishes,46,Shorts,Clothing,279,134,165,Idaho,2.7
+221,4/23/2022,11:17:00 PM,Face Place Shop,63,Jewelry,Accessories,888,649,62,Connecticut,2.6
+222,4/24/2022,11:00:00 PM,Fashion & Beauty by Tanima,44,Sweater,Clothing,1100,164,52,Montana,2.6
+223,4/24/2022,12:00:00 PM,Ribana,36,Shirt,Clothing,913,233,20,Colorado,3.1
+224,4/24/2022,10:31:00 PM,ABN Destination ,24,Pants,Clothing,400,191,176,Kentucky,2.6
+225,4/24/2022,9:25:00 PM,Snigdho Jamdani House,65,Hoodie,Clothing,338,234,172,New Mexico,3.4
+226,4/24/2022,10:58:00 PM,Sarafan's Boutique,32,Socks,Clothing,130,95,49,New Jersey,3.6
+227,4/25/2022,3:27:00 PM,Diamond Museum,63,Dress,Clothing,383,174,544,California,4.3
+228,4/26/2022,10:04:00 PM,Best Branded Cosmetics in BD,62,Blouse,Clothing,475,126,32,North Dakota,4.9
+229,4/26/2022,10:35:00 PM,Jamdani Kothon,19,Skirt,Clothing,2500,248,328,Florida,4.8
+230,4/27/2022,10:27:00 PM,Glamours dream,38,Backpack,Accessories,665,298,32,Texas,4.2
+231,4/28/2022,9:07:00 PM,Buy Genuine Products,59,Blouse,Clothing,1700,1100,111,Oklahoma,2.6
+232,4/28/2022,11:57:00 PM,VIVA,22,Socks,Clothing,1300,106,12,Rhode Island,3.2
+233,4/29/2022,10:31:00 PM,JAHAN,55,Boots,Footwear,1200,105,1,Arkansas,3.4
+234,05/10/2022,8:50:00 PM,Hair Fun By Mehjabin Rinty,29,Backpack,Accessories,614,159,23,Nevada,3.5
+235,5/14/2022,10:31:00 PM,BD Fashion Zone,42,Hat,Accessories,355,70,24,Utah,4.2
+236,5/14/2022,11:28:00 PM,Arisha Fashion House,23,Sandals,Footwear,2800,1400,71,Kentucky,2.8
+237,5/15/2022,9:37:00 PM,GLAMOZEN,70,Hoodie,Clothing,1100,411,51,Wisconsin,5
+238,5/17/2022,10:20:00 PM,Kashmiri Beauty By Jinnath,64,Sunglasses,Accessories,8000,5000,91,Minnesota,3.3
+239,5/17/2022,8:08:00 PM,Eziclick,39,Jeans,Clothing,6910,3148,133,North Dakota,3.7
+240,5/17/2022,8:41:00 PM,Just For Her,47,T-shirt,Clothing,515,272,22,Ohio,2.5
+241,5/18/2022,7:47:00 PM,Carnesia,22,Dress,Clothing,877,133,17,Nevada,3.2
+242,5/19/2022,7:41:00 PM,Carnesia,69,Belt,Accessories,605,42,7,Kentucky,3.1
+243,5/20/2022,10:42:00 PM,Pixie La Bella,35,Jewelry,Accessories,1100,181,51,Kentucky,3.5
+244,5/20/2022,11:22:00 PM,Blackbird Boutiques,56,Hoodie,Clothing,800,774,53,Montana,4.6
+245,5/20/2022,7:30:00 PM,Eziclick,30,Blouse,Clothing,1900,661,52,Delaware,3.3
+246,5/23/2022,8:46:00 PM,Sarafan's Boutique,43,Jacket,Outerwear,119,67,85,Montana,2.5
+247,5/23/2022,11:58:00 PM,Boots Keuze,23,Sneakers,Footwear,239,250,3,New Jersey,4.6
+248,5/25/2022,8:49:00 PM,JN Fashion,50,Boots,Footwear,398,197,169,Nebraska,4.2
+249,5/27/2022,9:40:00 PM,Foreign Touch Bangladesh,41,Blouse,Clothing,445,105,28,Maryland,4
+250,5/30/2022,4:36:00 PM,BD G I R L A N A,41,Blouse,Clothing,1200,136,15,Alabama,2.6
+251,5/30/2022,6:09:00 PM,La Rosalia,27,Boots,Footwear,8000,454,129,North Carolina,4.6
+252,5/31/2022,8:30:00 PM,WOW Collection,38,Scarf,Accessories,409,422,321,Delaware,3.5
+253,5/31/2022,3:37:00 PM,Wild Fashion BD,41,Sandals,Footwear,465,49,10,Iowa,4
+254,5/31/2022,4:23:00 PM,Nurjahan's,58,Sunglasses,Accessories,222,27,31,New York,4.8
+255,06/02/2022,11:08:00 PM,Nabreez,58,Coat,Outerwear,3000,349,27,Virginia,3.9
+256,06/04/2022,9:34:00 PM,Tailocare,19,Sunglasses,Accessories,1000,215,15,Maryland,3.7
+257,06/06/2022,9:48:00 PM,Juliet's Creation,43,Blouse,Clothing,10000,2000,98,Texas,3.1
+258,06/06/2022,12:00:00 PM,beautyboath.com.bd,27,Backpack,Accessories,1000,374,10,Louisiana,3
+259,06/06/2022,7:30:00 PM,Carnesia,32,Belt,Accessories,927,466,11,Mississippi,2.9
+260,06/07/2022,5:11:00 PM,Nurjahan's,28,Socks,Clothing,55,13,30,Ohio,2.9
+261,06/08/2022,6:01:00 PM,Tasnim Fashion,48,Shoes,Footwear,768,88,10,Oregon,4
+262,06/08/2022,11:29:00 PM,Red Velvet,43,Coat,Outerwear,3500,1500,179,Wyoming,3.5
+263,06/10/2022,5:36:00 PM,Rafika's Closet,45,Sweater,Clothing,506,149,29,Pennsylvania,3.8
+264,06/10/2022,10:33:00 PM,Ritzy Mound,26,Shirt,Clothing,1300,233,235,Oregon,4.5
+265,06/11/2022,7:08:00 PM,Showstopper ,62,Shorts,Clothing,754,54,5,Oklahoma,2.7
+266,06/11/2022,11:45:00 PM,NADIA BORKA HOUSE,58,Shirt,Clothing,2400,247,31,Colorado,2.9
+267,06/11/2022,7:54:00 PM,Nashwan Fashion,19,Sunglasses,Accessories,1300,410,168,New York,4.9
+268,06/12/2022,9:47:00 PM,Sarafan's Boutique,64,Shoes,Footwear,202,10,6,Minnesota,3.8
+269,6/13/2022,11:29:00 PM,Orchild-redefine beauty,33,Sunglasses,Accessories,26,269,32,Texas,4.9
+270,6/14/2022,2:27:00 PM,Godhuli,20,Handbag,Accessories,336,64,154,Wisconsin,4.6
+271,6/14/2022,11:48:00 PM,Salina's Collection ,45,Sunglasses,Accessories,1500,425,183,Kentucky,3.5
+272,6/15/2022,6:12:00 PM,Nurjahan's,28,Shirt,Clothing,3000,710,196,Pennsylvania,4.2
+273,6/15/2022,10:58:00 PM,Lollis Bangladesh ,47,Shirt,Clothing,1800,618,124,Rhode Island,3.7
+274,6/15/2022,11:54:00 PM,Unique Fashion ,54,Sweater,Clothing,2600,1100,199,Illinois,2.8
+275,6/15/2022,5:16:00 PM,Bonolota,64,Handbag,Accessories,112,22,5,Maryland,4.8
+276,6/16/2022,6:44:00 PM,Khan Brothers ,45,Shirt,Clothing,197,22,39,Missouri,2.7
+277,6/16/2022,8:03:00 PM,GoodiesDeal,40,Jewelry,Accessories,551,74,2,Alabama,3.6
+278,6/16/2022,10:24:00 PM,Hermizon Premium,31,Socks,Clothing,1500,152,26,Maine,4.5
+279,6/16/2022,10:18:00 PM,Zarrar' Creation,38,T-shirt,Clothing,272,16,6,Mississippi,4
+280,6/16/2022,9:12:00 PM,Cholonsoi,36,Jewelry,Accessories,564,50,14,Alabama,4.5
+281,6/16/2022,9:25:00 PM,Seldom,65,Backpack,Accessories,1000,316,14,Alaska,3.9
+282,6/16/2022,10:02:00 PM,Izbaah,27,Hat,Accessories,2000,256,8,Illinois,3.8
+283,6/16/2022,8:20:00 PM,INGLOT Bangladesh,38,Gloves,Accessories,2000,1000,16,Idaho,4.7
+284,6/17/2022,11:48:00 PM,Lam's World,58,Sneakers,Footwear,1600,200,25,North Carolina,4.6
+285,6/17/2022,10:21:00 PM,Sree Jamdani,31,Skirt,Clothing,491,147,11,Washington,3.6
+286,6/17/2022,9:05:00 PM,Suma's Attire,28,Handbag,Accessories,897,53,21,West Virginia,4.3
+287,6/17/2022,6:18:00 PM,Fashion Factory,28,Sunglasses,Accessories,805,51,13,Maine,3
+288,6/18/2022,10:29:00 PM,Juliet's Creation,32,Sweater,Clothing,1600,286,20,Kentucky,4.3
+289,6/18/2022,10:07:00 PM,Girl Style BD,61,Handbag,Accessories,465,40,46,Massachusetts,4.8
+290,6/18/2022,10:53:00 PM,Chowdhurani AyruvedA,38,Skirt,Clothing,4000,885,44,Pennsylvania,3.7
+291,6/18/2022,8:32:00 PM,NUVIA,54,Socks,Clothing,344,146,344,Hawaii,2.6
+292,6/19/2022,10:52:00 PM,One Stop,29,Shirt,Clothing,1600,171,24,Virginia,3.4
+293,6/19/2022,3:31:00 PM,Happy Life - Popy & Asif,50,Sneakers,Footwear,608,92,19,New York,3.9
+294,6/20/2022,12:31:00 PM,SULTANA's Kitchen ,32,Belt,Accessories,2500,269,15,Delaware,4.8
+295,6/20/2022,11:00:00 PM,Shiny Treasure BD,38,Pants,Clothing,1300,927,200,Hawaii,2.8
+296,6/20/2022,8:12:00 PM,Smart Shopping bd ,52,Jewelry,Accessories,571,321,14,Nebraska,4.4
+297,6/20/2022,11:04:00 PM,Scarlet,61,Pants,Clothing,823,342,225,Vermont,3.1
+298,6/21/2022,6:16:00 PM,Carnesia,25,Jewelry,Accessories,604,337,5,Iowa,3.8
+299,6/21/2022,7:25:00 PM,Noori Fashion,22,Jeans,Clothing,554,46,10,Iowa,4.1
+300,6/21/2022,10:59:00 PM,Venessa,47,Scarf,Accessories,568,15,6,Arkansas,4.6
+301,6/21/2022,10:59:00 PM,Emporium JFP,50,Belt,Accessories,1100,79,35,Alabama,4.9
+302,6/22/2022,7:30:00 PM,Carnesia,45,Dress,Clothing,569,48,4,Maryland,4.8
+303,6/22/2022,11:26:00 PM,Emotion Bazaar,33,T-shirt,Clothing,1700,529,60,South Dakota,3.9
+304,6/22/2022,6:54:00 PM,Adi Mohini Mohan Kanjilal Bangladesh ,42,Boots,Footwear,393,44,15,Vermont,2.6
+305,6/23/2022,11:13:00 PM,Aohon Bari,52,Dress,Clothing,2000,487,236,Montana,3.7
+306,6/23/2022,9:39:00 PM,Signature Color BD,69,Jewelry,Accessories,295,11,4,South Dakota,4.7
+307,6/24/2022,4:22:00 PM,Gaurav Jewellers,55,Skirt,Clothing,6100,683,56,Ohio,4.5
+308,6/24/2022,7:29:00 PM,Diva Bangladesh ,38,Handbag,Accessories,4100,297,29,Texas,4.7
+309,6/24/2022,10:17:00 PM,Buy Your Dream,57,Coat,Outerwear,271,27,5,Indiana,3.6
+310,6/24/2022,4:28:00 PM,Eziclick,33,Hoodie,Clothing,959,466,29,New Hampshire,2.8
+311,6/25/2022,10:43:00 PM,Spark N Shine,57,Pants,Clothing,1300,291,589,California,4
+312,6/25/2022,9:33:00 PM,Silk Heaven,52,Boots,Footwear,729,68,275,Maine,3.6
+313,6/25/2022,4:59:00 PM,Sonarga Jewellers,44,Coat,Outerwear,4200,342,95,Ohio,3.8
+314,6/25/2022,3:00:00 PM,Noor Jewellers BD,48,Scarf,Accessories,966,1200,93,Delaware,4.4
+315,6/25/2022,7:59:00 PM,Gorgeous with Trend,52,Boots,Footwear,1400,55,73,Oklahoma,2.8
+316,6/26/2022,10:32:00 PM,OHSOGO,34,Sneakers,Footwear,2000,248,11,Indiana,3.4
+317,6/26/2022,10:30:00 PM,SkinWish,26,Sweater,Clothing,2300,303,127,South Carolina,4.9
+318,6/26/2022,3:00:00 PM,Bio-Xin Cosmeceuticals,36,Belt,Accessories,3000,3000,256,Vermont,4.3
+319,6/26/2022,8:15:00 PM,Arisha Fashion House,24,Jewelry,Accessories,2000,4000,201,Kansas,3.4
+320,6/26/2022,7:34:00 PM,Raj Jewellers Ltd,30,Handbag,Accessories,976,340,68,Utah,3.9
+321,6/26/2022,10:03:00 PM,Falaq's Collection ,31,Jacket,Outerwear,816,70,5,New York,4.2
+322,6/27/2022,12:06:00 PM,Kaynat's Jewellery,25,Boots,Footwear,848,338,111,Indiana,2.7
+323,6/27/2022,11:12:00 PM,Miss Glorious,57,Sneakers,Footwear,4000,6000,1000,Tennessee,4.1
+324,6/27/2022,10:44:00 PM,LOTUS,61,Scarf,Accessories,1500,439,232,Georgia,4.5
+325,6/27/2022,11:07:00 PM,Magical BD,30,Coat,Outerwear,632,38,6,Nebraska,2.8
+326,6/28/2022,2:31:00 PM,Khandani Khanapina ,38,Shorts,Clothing,11000,3000,123,Washington,3.4
+327,6/28/2022,8:34:00 PM,Sukaina's Dream,53,Shorts,Clothing,479,94,85,Idaho,3.9
+328,6/28/2022,12:02:00 PM,Fashion Prangon,31,Jeans,Clothing,1400,691,279,Louisiana,2.6
+329,6/28/2022,6:47:00 PM,Fashion Classy,70,Gloves,Accessories,1500,300,165,New Jersey,4.4
+330,6/28/2022,3:13:00 PM,Excellence By Labonno Jahan,21,Pants,Clothing,860,272,10,Delaware,4.9
+331,6/28/2022,8:27:00 PM,Tailor With Allo,33,Dress,Clothing,2000,631,25,Wisconsin,3.6
+332,6/28/2022,9:18:00 PM,Nurjahan's,60,Pants,Clothing,160,28,10,West Virginia,2.8
+333,6/28/2022,6:47:00 PM,Fashion Classy,45,Gloves,Accessories,1500,294,160,Texas,4.3
+334,6/28/2022,10:03:00 PM,Jannat Exim,46,Belt,Accessories,1100,51,77,Hawaii,3
+335,6/29/2022,4:27:00 PM,Khan Brothers ,62,Belt,Accessories,106,7,6,Arizona,3.3
+336,6/29/2022,10:07:00 PM,NAQIA,63,Skirt,Clothing,1300,192,19,Louisiana,2.5
+337,6/29/2022,11:25:00 PM,Mim Corporation BD,69,Socks,Clothing,916,224,16,Nevada,5
+338,6/29/2022,9:16:00 PM,EFG Fashion ,46,Belt,Accessories,3000,3000,220,Rhode Island,4.3
+339,6/29/2022,9:54:00 PM,Sany Footwear,69,Shirt,Clothing,837,311,114,Illinois,4.2
+340,6/29/2022,7:00:00 PM,Sarafan's Boutique,66,Dress,Clothing,762,99,11,Utah,3.9
+341,6/29/2022,9:32:00 PM,Mayaboti,41,Socks,Clothing,882,114,10,North Dakota,3.9
+342,6/29/2022,10:12:00 PM,Tailor With Allo,32,Jacket,Outerwear,479,41,5,Kansas,4.2
+343,6/29/2022,9:30:00 PM,Farhana Boutiques ,69,Sweater,Clothing,289,22,9,Nevada,3.5
+344,6/29/2022,10:20:00 PM,Abohomaan by Rufaida,29,Jeans,Clothing,442,63,34,Virginia,2.5
+345,6/30/2022,8:44:00 PM,SR Fashion Mart,70,Jewelry,Accessories,861,131,28,Utah,2.9
+346,6/30/2022,4:00:00 PM,Other Things Sell,41,Sweater,Clothing,40,0,0,Idaho,2.7
+347,6/30/2022,3:17:00 PM,NUVIA,31,Hoodie,Clothing,305,83,67,Alaska,4.7
+348,6/30/2022,8:44:00 PM,JSNS Indian Churree Botiques House,31,Sunglasses,Accessories,3000,5000,598,New Hampshire,3.8
+349,6/30/2022,7:16:00 PM,Flavourish Food,57,Sandals,Footwear,6000,2000,33,Ohio,3.7
+350,6/30/2022,5:11:00 PM,Toya Mart,29,Coat,Outerwear,323,7500,706,Montana,4.7
+351,6/30/2022,11:02:00 PM,Organic Solution BD,70,Belt,Accessories,692,532,609,Louisiana,3.6
+352,6/30/2022,9:05:00 PM,KOLPOTORU,51,Blouse,Clothing,484,1600,266,Oregon,2.8
+353,6/30/2022,10:11:00 PM,Style Edge,45,Skirt,Clothing,685,42,11,Arizona,3.7
+354,6/30/2022,7:15:00 PM,Lavisho,18,Shorts,Clothing,419,37,8,Alaska,3.5
+355,6/30/2022,4:25:00 PM,Carnesia,37,Dress,Clothing,1800,2200,100,Utah,3.7
+356,6/30/2022,5:18:00 PM,Diamond Valley,23,Sunglasses,Accessories,1600,217,33,New York,3
+357,6/30/2022,7:36:00 PM,Shundor-??????,39,Shoes,Footwear,12000,1900,288,New Mexico,4.9
+358,07/01/2022,10:00:00 PM,Korean Mart - Bangladesh,62,Belt,Accessories,2500,682,292,Louisiana,4.6
+359,07/01/2022,11:00:00 PM,Momo's Lense & Artistry,70,Belt,Accessories,61,135,13,Ohio,3.3
+360,07/01/2022,3:29:00 PM,Nurjahan's,20,Belt,Accessories,326,11,6,Nevada,3
+361,07/02/2022,6:00:00 PM,My Aura,42,Belt,Accessories,513,281,496,Idaho,3.5
+362,07/02/2022,10:48:00 PM,Makeup Chari,41,Skirt,Clothing,1900,396,19,Arizona,4.2
+363,07/02/2022,8:33:00 PM,Le Stylista,24,T-shirt,Clothing,727,290,172,Utah,4.5
+364,07/02/2022,9:10:00 PM,Abohomaan by Rufaida,37,Scarf,Accessories,491,41,928,Wyoming,2.8
+365,07/03/2022,9:00:00 PM,Eziclick,30,Blouse,Clothing,4200,396,1000,Indiana,4.9
+366,07/03/2022,8:54:00 PM,Diamond House,58,Sunglasses,Accessories,1100,665,1000,Wisconsin,3.3
+367,07/03/2022,10:05:00 PM,Papri,43,Boots,Footwear,3400,652,339,Texas,3
+368,07/04/2022,4:23:00 PM,SR Fashion Mart,19,Jacket,Outerwear,691,66,13,Utah,3.9
+369,07/05/2022,8:00:00 PM,Borsha Creation,23,Jeans,Clothing,4000,805,532,Arkansas,2.8
+370,07/05/2022,6:02:00 PM,Scarlet,65,Sunglasses,Accessories,4800,1200,94,Pennsylvania,4.5
+371,07/06/2022,5:00:00 PM,Shopno Chowa,58,Sandals,Footwear,375,182,12,Georgia,4
+372,07/06/2022,10:30:00 PM,Cosmetiva,50,Backpack,Accessories,199,371,24,Indiana,2.9
+373,07/06/2022,11:00:00 PM,Labonno's Henna Artwork,67,Blouse,Clothing,800,608,7,Idaho,4
+374,07/06/2022,3:42:00 PM,NUVIA,40,Shoes,Footwear,121,87,14,Montana,3.4
+375,07/07/2022,3:58:00 PM,NUVIA,55,Shirt,Clothing,290,37,19,Tennessee,2.5
+376,07/07/2022,9:09:00 PM,Carnesia,52,Hoodie,Clothing,635,382,10,West Virginia,2.8
+377,7/13/2022,8:30:00 PM,Queenly Demand,62,Dress,Clothing,89,15,4,California,3
+378,7/13/2022,4:00:00 PM,Flormar Bangladesh,64,Dress,Clothing,94,39,13,Georgia,3.1
+379,7/16/2022,3:00:00 PM,Noor Jewellers BD,43,Sneakers,Footwear,1700,328,133,Maryland,2.6
+380,7/18/2022,3:00:00 PM,Noor Jewellers BD,61,Blouse,Clothing,883,287,117,Idaho,4.9
+381,7/18/2022,10:23:00 PM,Aster Lifestyle,26,Backpack,Accessories,122,97,3,California,3.5
+382,7/19/2022,11:00:00 PM,Westerna,22,Sweater,Clothing,96,21,117,Alabama,2.6
+383,7/20/2022,3:00:00 PM,Happy Life - Popy & Asif,51,Boots,Footwear,1000,167,135,Utah,3.5
+384,7/20/2022,9:00:00 PM,Eziclick,69,Handbag,Accessories,3000,625,135,Kentucky,4.5
+385,7/20/2022,3:30:00 PM,Eziclick,50,Hoodie,Clothing,2000,1500,73,Vermont,4.3
+386,7/20/2022,10:00:00 PM,Lisa Online Shop,51,Belt,Accessories,737,102,39,Iowa,4.8
+387,7/20/2022,9:00:00 PM,Choosett,56,Jewelry,Accessories,98,48,2,Georgia,4.2
+388,7/21/2022,6:00:00 PM,Happy Life - Popy & Asif,59,Blouse,Clothing,793,158,143,Alabama,3.2
+389,7/21/2022,10:00:00 PM,Daimond House,18,Handbag,Accessories,1200,459,262,Nebraska,4.1
+390,7/21/2022,1:00:00 PM,Matching Touch,48,Handbag,Accessories,20,0,1,Rhode Island,4
+391,7/22/2022,3:00:00 PM,Shahzadi & Shennaz,53,Coat,Outerwear,160,34,80,South Dakota,2.9
+392,7/22/2022,3:00:00 PM,Noor Jewellers BD,45,Belt,Accessories,1200,388,83,Illinois,2.6
+393,7/22/2022,6:00:00 PM,Happy Life - Popy & Asif,21,Boots,Footwear,911,232,187,North Carolina,2.7
+394,7/22/2022,5:00:00 PM,Brave,42,Socks,Clothing,1000,4000,573,Florida,4.6
+395,7/22/2022,6:00:00 PM,Lisa Online Shop,60,Shoes,Footwear,1500,3000,253,Pennsylvania,3.2
+396,7/22/2022,8:00:00 PM,Lisa Online Shop,21,Sneakers,Footwear,2000,5000,375,Vermont,4.1
+397,7/22/2022,3:39:00 PM,Happy Life - Popy & Asif,69,Jewelry,Accessories,939,230,109,Colorado,3.9
+398,7/22/2022,4:00:00 PM,Kacchi Pradise,40,Handbag,Accessories,2000,840,41,Utah,3
+399,7/22/2022,8:30:00 PM,WOW Collection,31,Coat,Outerwear,203,214,274,Kentucky,3.6
+400,7/22/2022,3:00:00 PM,Colourful,44,Sunglasses,Accessories,2400,3000,514,Wyoming,4.6
+401,7/22/2022,9:00:00 PM,7Lake's.com ,48,Shoes,Footwear,773,378,79,Maine,4.5
+402,7/22/2022,9:00:00 PM,Oasis Outfit,32,Shoes,Footwear,404,100,10,Maine,3.2
+403,7/22/2022,7:48:00 PM,Mohis Collection BD,42,Boots,Footwear,3600,2100,97,New Hampshire,4.9
+404,7/22/2022,10:28:00 PM,Ping Pong Bangladesh,27,Sandals,Footwear,2700,904,71,Kansas,5
+405,7/23/2022,6:00:00 PM,Happy Life - Popy & Asif,69,Gloves,Accessories,976,127,111,New Jersey,3.8
+406,7/23/2022,8:00:00 PM,Falgoon,67,Backpack,Accessories,3000,3000,507,North Carolina,3.4
+407,7/23/2022,9:00:00 PM,Lisa Online Shop,41,Handbag,Accessories,1000,4000,570,West Virginia,3.8
+408,7/23/2022,9:00:00 PM,Eziclick,46,Sweater,Clothing,2600,1000,39,Kentucky,3.2
+409,7/23/2022,9:00:00 PM,Stylish Abaya,47,Coat,Outerwear,1100,53,123,California,4.7
+410,7/23/2022,4:00:00 PM,Oasis Outfit,33,T-shirt,Clothing,402,67,13,South Dakota,4.5
+411,7/23/2022,4:34:00 PM,NUVIA,51,Backpack,Accessories,371,44,26,California,3.3
+412,7/24/2022,5:00:00 PM,Lifestyleshop.com,26,Sunglasses,Accessories,298,43,4,Connecticut,3.9
+413,7/24/2022,9:00:00 PM,Online ShopingBD,22,Belt,Accessories,453,130,6,Idaho,3.6
+414,7/24/2022,6:00:00 PM,Happy Life - Popy & Asif,49,Jacket,Outerwear,1000,174,111,North Dakota,2.8
+415,7/24/2022,9:30:00 PM,Lesia by Farzana ,58,Skirt,Clothing,295,7,1,Michigan,4.3
+416,7/24/2022,9:30:00 PM,Wahidas Fresh Food,70,Belt,Accessories,3000,1000,31,Missouri,3.5
+417,7/24/2022,10:30:00 PM,Amlaki,32,Boots,Footwear,759,147,11,California,4.2
+418,7/24/2022,8:00:00 PM,Alvina,62,Jeans,Clothing,61,21,6,Delaware,4.6
+419,7/24/2022,8:00:00 PM,Fashion Maker,52,Shoes,Footwear,94,20,1,Alabama,2.6
+420,7/24/2022,5:00:00 PM,GlamDust,23,Sweater,Clothing,331,444,111,New Hampshire,3.4
+421,7/25/2022,11:30:00 PM,Fartas,26,Jewelry,Accessories,562,59,7,New York,3.1
+422,7/25/2022,11:30:00 PM,Shop with Nipun's Gallery,58,Shirt,Clothing,304,353,134,Oregon,3.6
+423,7/25/2022,8:30:00 PM,Shop with Nipun's Gallery,26,Boots,Footwear,420,292,195,Massachusetts,4.2
+424,7/25/2022,11:05:00 PM,Aster Lifestyle,54,Shorts,Clothing,410,85,157,Utah,3.6
+425,7/25/2022,6:00:00 PM,Mini's Outlook,66,Handbag,Accessories,2000,2000,319,New Hampshire,3.6
+426,7/25/2022,10:00:00 PM,RJ Fashion & Jewellery,60,Sweater,Clothing,539,166,18,Illinois,3
+427,7/25/2022,10:00:00 PM,Abaya & Grown,32,Belt,Accessories,218,157,7,Alaska,2.5
+428,7/25/2022,6:30:00 PM,Wardrobe Collections,48,Belt,Accessories,702,97,14,Wyoming,4
+429,7/25/2022,8:19:00 PM,Swanky Style Hub,69,Hoodie,Clothing,1000,273,5,Colorado,4.1
+430,7/26/2022,10:01:00 PM,OHSOGO,64,Sneakers,Footwear,2000,423,157,Vermont,4.9
+431,7/26/2022,8:00:00 PM,New Look,56,T-shirt,Clothing,138,70,24,Utah,4
+432,7/26/2022,3:00:00 PM,Tansi,22,Pants,Clothing,2000,2000,78,Illinois,3.5
+433,7/26/2022,9:00:00 PM,Lifestyle By Moana,46,Scarf,Accessories,2000,978,76,Idaho,3.2
+434,7/26/2022,4:00:00 PM,Noksha Kutir,24,Sweater,Clothing,2000,4000,809,Nevada,2.8
+435,7/26/2022,6:00:00 PM,Cooking Stove,47,Handbag,Accessories,2000,1000,60,Utah,3.5
+436,7/26/2022,4:00:00 PM,Milana,62,Shirt,Clothing,69,50,505,North Carolina,3.1
+437,7/26/2022,5:00:00 PM,Choice Home,34,Dress,Clothing,355,221,704,Arkansas,3.3
+438,7/26/2022,3:00:00 PM,Classy Clothes,50,Sandals,Footwear,118,141,122,North Carolina,4.6
+439,7/26/2022,4:20:00 PM,Roya,29,Shirt,Clothing,300,68,12,Texas,4.9
+440,7/26/2022,5:00:00 PM,Alvina,68,Dress,Clothing,12,4,0,Nevada,3.4
+441,7/26/2022,11:00:00 PM,Nikkon,52,Sunglasses,Accessories,62,20,0,Utah,3.5
+442,7/26/2022,4:00:00 PM,BeautyBazz,29,Socks,Clothing,362,76,6,Pennsylvania,4.8
+443,7/26/2022,3:00:00 PM,S.A Corporation,22,Sandals,Footwear,2000,563,33,Georgia,2.7
+444,7/26/2022,5:00:00 PM,S.A Corporation,62,Hat,Accessories,2000,267,44,Minnesota,3.4
+445,7/26/2022,5:00:00 PM,Toya Mart,69,Shirt,Clothing,303,5000,792,Kansas,3.5
+446,7/26/2022,10:00:00 PM,Fashion Prangon,48,Shoes,Footwear,223,2000,66,Delaware,3.7
+447,7/26/2022,11:00:00 PM,Sporoho BD,66,Pants,Clothing,281,259,92,New Mexico,3.3
+448,7/26/2022,9:00:00 AM,NIBIR Fashion,42,Shirt,Clothing,5000,708,116,Michigan,2.9
+449,7/26/2022,9:00:00 PM,Taiyeba's Collection,50,Hat,Accessories,523,2000,213,Vermont,3.9
+450,7/26/2022,5:00:00 PM,Satrang,32,Jewelry,Accessories,95,23,8,Idaho,2.7
+451,7/26/2022,10:00:00 PM,GlamGrl,51,Jacket,Outerwear,131,161,457,South Dakota,4.3
+452,7/26/2022,10:00:00 PM,Zayaan's Exclusive Collection,27,Shirt,Clothing,549,120,33,Illinois,3
+453,7/26/2022,4:00:00 PM,Trendy By Farzana,43,Pants,Clothing,69,57,29,Georgia,5
+454,7/26/2022,11:30:00 PM,Fartas,48,Skirt,Clothing,392,64,10,Oregon,2.7
+455,7/26/2022,11:00:00 PM,Sanvee's Dream,62,Sandals,Footwear,4000,9500,441,Alabama,4.7
+456,7/26/2022,7:30:00 PM,Israt Shopping Online,65,Blouse,Clothing,1700,1900,32,Hawaii,4.6
+457,7/26/2022,6:00:00 PM,Wardrobe Collections,50,Socks,Clothing,342,60,4,Oregon,3.2
+458,7/26/2022,9:46:00 PM,Israt Shopping Online,60,Jacket,Outerwear,2400,652,13,Illinois,4.3
+459,7/27/2022,6:00:00 PM,Wardrobe Collections,19,Handbag,Accessories,1000,41,31,Texas,4.6
+460,7/27/2022,7:24:00 PM,Aporupa,21,Belt,Accessories,163,61,26,Kansas,4.9
+461,7/27/2022,7:26:00 PM,Smart Shoppingbd,19,Blouse,Clothing,1000,2000,513,Texas,3.8
+462,7/27/2022,11:35:00 PM,Exclusive Dresses,46,Shirt,Clothing,48,36,118,Nebraska,2.6
+463,7/27/2022,12:43:00 AM,Shidur,21,Handbag,Accessories,33,14,0,Arkansas,4.7
+464,7/27/2022,11:00:00 PM,MT Mart,26,Scarf,Accessories,543,577,27,South Dakota,4.1
+465,7/27/2022,4:08:00 PM,Classical Collection by Afra,50,Coat,Outerwear,1000,512,1000,Montana,3.7
+466,7/27/2022,4:20:00 PM,Closet Cloud,43,Hoodie,Clothing,355,45,7,Florida,3
+467,7/27/2022,3:58:00 PM,Exclusive by Ayesha,61,Shorts,Clothing,1000,1000,30,Virginia,4.7
+468,7/27/2022,4:30:00 PM,Blue bell attire,63,Sandals,Footwear,167,57,14,Louisiana,4.7
+469,7/27/2022,2:30:00 PM,Surachara Febrics,46,Shirt,Clothing,343,149,115,Louisiana,4
+470,7/27/2022,3:36:00 PM,Nahida Fashion House,63,Hoodie,Clothing,32,823,343,Louisiana,2.6
+471,7/27/2022,3:36:00 PM,Anzara,23,Socks,Clothing,419,179,683,Georgia,3
+472,7/27/2022,3:36:00 PM,Be Stylish by Mou,57,Handbag,Accessories,157,371,48,Iowa,3.3
+473,7/27/2022,4:18:00 PM,Shatkahon,57,Jewelry,Accessories,138,83,49,California,3.4
+474,7/27/2022,5:30:00 PM,Fashion for You,33,Coat,Outerwear,110,54,511,Oregon,4
+475,7/27/2022,5:30:00 PM,Fashionable Dress,57,Sunglasses,Accessories,464,251,9,Maine,2.6
+476,7/27/2022,6:48:00 PM,Style Mart Brand,55,Gloves,Accessories,195,58,16,Louisiana,3.4
+477,7/27/2022,7:01:00 PM,Aarmoire,65,Jacket,Outerwear,36,8,2,Arkansas,4.4
+478,7/27/2022,6:00:00 PM,Classy Attire,60,Sandals,Footwear,514,248,27,Maryland,4.7
+479,7/27/2022,5:00:00 PM,Katan Sarer Mela,52,Pants,Clothing,193,112,1000,Vermont,4.5
+480,7/27/2022,5:00:00 PM,MT Mart,34,Jacket,Outerwear,273,310,44,North Dakota,2.9
+481,7/27/2022,10:28:00 PM,S.A Corporation,33,Sweater,Clothing,3100,512,28,Michigan,4.2
+482,7/28/2022,9:05:00 PM,Lubabah,58,T-shirt,Clothing,904,171,57,Arkansas,4.1
+483,7/28/2022,10:58:00 PM,Fitback/Bd,35,Boots,Footwear,1000,361,30,Kentucky,4.4
+484,7/29/2022,3:34:00 PM,NUVIA,68,Shoes,Footwear,504,131,350,Indiana,4.7
+485,7/31/2022,4:58:00 PM,Kushimona,58,Skirt,Clothing,5600,1500,116,Minnesota,3.1
+486,7/31/2022,6:09:00 PM,Maheroo Style,34,Coat,Outerwear,2500,944,135,Louisiana,2.7
+487,08/01/2022,12:30:00 PM,Noor Jewellers BD,47,Blouse,Clothing,1000,28,11,Kentucky,4.6
+488,08/03/2022,11:31:00 PM,Laviro,35,Sunglasses,Accessories,3000,691,20,Georgia,4.4
+489,08/03/2022,9:22:00 PM,Clothing Express,34,Gloves,Accessories,1800,125,47,Alaska,4.6
+490,08/03/2022,10:38:00 PM,Fashion Glam,36,Sunglasses,Accessories,724,75,29,Mississippi,4.9
+491,08/03/2022,5:46:00 PM,Senco Gold,23,Sneakers,Footwear,2800,205,49,Kansas,4
+492,08/04/2022,5:02:00 PM,Raj Jewellers Ltd,68,Hoodie,Clothing,1700,71,23,Arizona,2.9
+493,08/04/2022,10:43:00 PM,Nazana By Nishu,23,Boots,Footwear,1000,365,11,Maine,2.6
+494,08/04/2022,9:21:00 PM,Farmasi Bangladesh,57,Handbag,Accessories,3000,506,751,Texas,4.6
+495,08/05/2022,6:01:00 PM,Wardrobe Collections,21,Shirt,Clothing,2100,52,36,Virginia,4.9
+496,08/05/2022,7:54:00 PM,Kaniz Boutiques Creation,45,Sweater,Clothing,3400,6500,2500,North Dakota,4.3
+497,08/05/2022,9:40:00 PM,BD Fashion Zone,37,Shorts,Clothing,366,69,21,West Virginia,4.3
+498,08/05/2022,9:11:00 PM,Fashion Box,18,Belt,Accessories,986,75,15,North Carolina,4.6
+499,08/06/2022,4:07:00 PM,Daimond Palace LTD,55,Blouse,Clothing,2000,5000,940,Georgia,2.6
+500,08/06/2022,5:03:00 PM,Carnesia,52,T-shirt,Clothing,580,161,25,New Mexico,3.1
+501,08/06/2022,9:19:00 PM,BBD Fashion Zone,49,Belt,Accessories,233,45,2,North Carolina,3.1
+502,08/07/2022,9:20:00 PM,Fashion Box,56,Socks,Clothing,990,169,53,Alabama,3.1
+503,08/07/2022,4:20:00 PM,Nurjahan's,27,Belt,Accessories,2700,1100,111,Connecticut,4.4
+504,08/07/2022,6:23:00 PM,Gaurav Jewellers,22,Handbag,Accessories,859,71,24,Montana,4.3
+505,08/07/2022,5:08:00 PM,Violeta,18,Shirt,Clothing,828,72,8,Montana,3.1
+506,08/08/2022,3:42:00 PM,Babies Collection ,21,Belt,Accessories,4200,3100,248,Maine,3.1
+507,08/08/2022,5:02:00 PM,Gaurav Jewellers,30,Jewelry,Accessories,4000,386,76,Mississippi,4.9
+508,08/08/2022,8:13:00 PM,Mahia,62,Hat,Accessories,4100,2200,226,Louisiana,2.9
+509,08/08/2022,10:40:00 PM,Elma Boutique,28,Backpack,Accessories,3100,1300,61,Nebraska,3.8
+510,08/08/2022,9:35:00 PM,Sarafan's Boutique,66,Dress,Clothing,935,208,14,Massachusetts,4.2
+511,08/08/2022,9:20:00 PM,Little & Misses,66,Shoes,Footwear,5200,4200,694,Wisconsin,3.9
+512,08/08/2022,4:20:00 PM,Nurjahan's,49,Pants,Clothing,1200,127,81,Nebraska,2.8
+513,08/08/2022,8:37:00 PM,Snigdho Fashion Wear,40,Dress,Clothing,223,60,4,Arizona,2.6
+514,08/09/2022,9:51:00 PM,Sarafan's Boutique,49,Jacket,Outerwear,172,20,8,Hawaii,3
+515,08/10/2022,11:18:00 PM,Faria Nur,19,Shirt,Clothing,952,193,258,Georgia,2.7
+516,08/10/2022,10:28:00 PM,Miss Sweetipie,24,Dress,Clothing,2000,1000,38,Oregon,2.8
+517,08/10/2022,4:39:00 PM,Mimosa Boutique,31,Jeans,Clothing,519,46,14,Montana,2.9
+518,08/10/2022,4:48:00 PM,Rizvy Jewellers,35,T-shirt,Clothing,4700,3300,317,Georgia,3.8
+519,08/11/2022,11:11:00 PM,Clothing Express,65,Sunglasses,Accessories,921,118,35,Rhode Island,4.4
+520,08/11/2022,3:26:00 PM,NUVIA,68,Jewelry,Accessories,172,25,19,Tennessee,3.1
+521,08/11/2022,10:10:00 PM,Heyza,57,Socks,Clothing,350,49,1,Missouri,3.7
+522,08/11/2022,12:46:00 PM,Jhinuk's Collection Exclusive,69,Skirt,Clothing,1200,223,88,Washington,4.9
+523,08/11/2022,8:57:00 AM,Nazara by Nishu,45,Pants,Clothing,1700,259,27,Oklahoma,3.8
+524,08/12/2022,9:47:00 PM,Sarafan's Boutiques,35,Socks,Clothing,212,68,11,Connecticut,3.4
+525,8/14/2022,9:36:00 PM,SelfCare Beauty,36,Sandals,Footwear,280,47,11,Arkansas,4.6
+526,8/14/2022,10:27:00 PM,Fashion Zone,55,Belt,Accessories,247,55,5,Missouri,3.2
+527,8/14/2022,10:07:00 PM,Aksa Fashion House,66,Sandals,Footwear,1000,164,35,Washington,2.7
+528,8/15/2022,8:54:00 PM,Israt Shopping Online,57,Shorts,Clothing,2000,1200,38,Idaho,4.3
+529,8/15/2022,9:46:00 PM,Aarombor,18,Handbag,Accessories,719,155,22,Montana,3.8
+530,8/16/2022,5:08:00 PM,Gaurav Jewellers,31,Jacket,Outerwear,810,88,3,Montana,4.4
+531,8/16/2022,6:43:00 PM,Ofra Collection,50,Sunglasses,Accessories,3000,1100,65,Georgia,3.6
+532,8/17/2022,5:32:00 PM,JN Fashion,50,Sneakers,Footwear,419,61,17,Mississippi,3.5
+533,8/17/2022,2:17:00 PM,Nemali,61,Sweater,Clothing,1800,573,35,Hawaii,4.2
+534,8/17/2022,10:24:00 PM,BlueDotShopping,52,Skirt,Clothing,819,133,55,Ohio,4.7
+535,8/17/2022,9:42:00 PM,Fancollectionbd.com,38,Jewelry,Accessories,769,118,23,Virginia,4.8
+536,8/18/2022,7:13:00 PM,Wardrobe Collections,67,Blouse,Clothing,3400,151,60,Texas,3.2
+537,8/19/2022,10:25:00 PM,Maisha's Raiment,42,Blouse,Clothing,431,74,10,Vermont,3.5
+538,8/20/2022,7:23:00 PM,Attire,25,Boots,Footwear,310,55,4,Kansas,4.2
+539,8/20/2022,2:23:00 PM,Lisa Online Shop,41,Jeans,Clothing,1000,300,13,California,3.4
+540,8/20/2022,3:00:00 PM,Noor Jewellers BD,62,Hoodie,Clothing,2000,462,110,Mississippi,4.7
+541,8/20/2022,10:38:00 PM,Sahebbibi,19,Sweater,Clothing,499,164,35,Iowa,3
+542,8/22/2022,10:09:00 PM,Banglashoppers,63,Gloves,Accessories,448,118,13,Virginia,4
+543,8/22/2022,8:30:00 PM,Sarafan's Boutique,43,Sneakers,Footwear,103,14,1,Maryland,4.6
+544,8/22/2022,10:57:00 PM,Clothing Express,68,Sunglasses,Accessories,480,82,10,Missouri,4.9
+545,8/22/2022,12:11:00 PM,Reasonable Fashion By Ani,24,Belt,Accessories,3100,827,43,Wisconsin,2.8
+546,8/22/2022,8:20:00 AM,Sananda Fashion,27,Sweater,Clothing,596,21,49,Maine,3.2
+547,8/22/2022,1:04:00 PM,Wasfi's Collection,61,Gloves,Accessories,1100,314,45,Pennsylvania,2.8
+548,8/23/2022,3:33:00 AM,NUVIA,59,Handbag,Accessories,127,78,8,Maine,4.2
+549,8/25/2022,8:51:00 PM,S.A Corporation,67,Socks,Clothing,1800,187,13,Missouri,4.8
+550,8/25/2022,6:42:00 PM,Gaurav Jewellers,46,Pants,Clothing,381,42,29,Vermont,2.8
+551,8/25/2022,8:59:00 PM,Make me Gorgeous,65,Scarf,Accessories,1400,366,69,Wisconsin,4.5
+552,8/25/2022,8:25:00 PM,Rose - ???,63,Coat,Outerwear,580,106,20,New Jersey,4.1
+553,8/27/2022,3:00:00 PM,Noor Jewellers BD,57,Jacket,Outerwear,3700,531,134,New Mexico,4.3
+554,8/27/2022,9:50:00 PM,Sree Jamdani Saree,40,Hoodie,Clothing,318,73,11,Colorado,4.4
+555,8/28/2022,10:38:00 PM,Laptica,36,Boots,Footwear,1000,143,27,California,3
+556,8/28/2022,11:06:00 PM,Magnificent Mart,67,Socks,Clothing,2400,594,48,Arizona,2.7
+557,8/29/2022,8:59:00 PM,Labonno Dress Town,61,Jewelry,Accessories,512,85,16,Indiana,3.3
+558,8/29/2022,1:28:00 PM,Skin Solution By Jesmin,64,Shoes,Footwear,684,225,23,Arkansas,4.3
+559,8/30/2022,9:30:00 AM,Clothing Express,30,Socks,Clothing,3600,276,268,Nevada,2.9
+560,8/31/2022,10:32:00 PM,Chinese Fashion Hub,53,Pants,Clothing,357,56,6,Rhode Island,4.9
+561,8/31/2022,5:21:00 PM,Lisa Online Shop,27,Sneakers,Footwear,692,144,6,Wyoming,3.6
+562,09/01/2022,7:06:00 PM,Gaurav Jewellers,27,Sunglasses,Accessories,285,44,8,Texas,3.3
+563,09/01/2022,12:25:00 PM,Niton Diamond,53,Skirt,Clothing,31,12,10,Washington,3.1
+564,09/01/2022,9:11:00 PM,Sananda Fashion,34,Coat,Outerwear,1000,59,48,Rhode Island,2.7
+565,09/03/2022,4:46:00 PM,Wardrobe Collections,39,Hoodie,Clothing,328,49,7,Illinois,3.4
+566,09/03/2022,3:44:00 PM,Colourful,44,Sunglasses,Accessories,2700,14000,142,Oregon,3.4
+567,09/03/2022,2:53:00 PM,New Bashundhara Jewellers,37,Skirt,Clothing,7400,1900,154,Florida,3.9
+568,09/03/2022,10:29:00 PM,Eve's Closet,57,Coat,Outerwear,497,90,24,Kansas,3.5
+569,09/03/2022,11:20:00 PM,Ritzy Mound,38,Handbag,Accessories,2100,262,47,North Dakota,4.1
+570,09/03/2022,8:21:00 PM,Dress Fair & Accessories,21,T-shirt,Clothing,550,59,13,New Hampshire,3.2
+571,09/04/2022,9:46:00 PM,Urmy's Corner,45,Sunglasses,Accessories,417,73,9,Texas,4.6
+572,09/04/2022,10:10:00 PM,RSJ Collection,68,Shirt,Clothing,744,201,42,Montana,3.9
+573,09/04/2022,9:31:00 PM,Modesty By Mithila,37,Hoodie,Clothing,1500,236,63,Delaware,2.7
+574,09/05/2022,10:11:00 PM,Exposy,53,Blouse,Clothing,429,80,52,New Hampshire,3
+575,09/05/2022,10:03:00 PM,Mahiya's Collection,57,Sneakers,Footwear,329,26,49,Minnesota,3.3
+576,09/05/2022,10:30:00 PM,Western Dress Gallery,28,Scarf,Accessories,3100,1600,161,Alaska,2.7
+577,09/06/2022,3:00:00 PM,Noor Jewellers BD,37,Jewelry,Accessories,2300,454,53,Connecticut,4.6
+578,09/06/2022,8:55:00 PM,BD Natural Collection,54,Pants,Clothing,391,145,27,Connecticut,2.7
+579,09/06/2022,4:39:00 PM,BlinqDrobe,49,Sneakers,Footwear,491,146,12,Kansas,2.5
+580,09/07/2022,9:24:00 PM,Smart Lingerie,62,Shoes,Footwear,349,233,9,Nevada,4.4
+581,09/08/2022,7:52:00 PM,White Color,45,T-shirt,Clothing,563,131,24,Massachusetts,4
+582,09/09/2022,11:01:00 PM,Newish,45,Belt,Accessories,2600,3100,125,Indiana,3.8
+583,09/09/2022,7:29:00 PM,Eziclick,49,Jewelry,Accessories,4300,1800,375,Washington,2.5
+584,09/09/2022,11:43:00 PM,Putul Biye : ????? ????,27,Belt,Accessories,8500,1300,105,Kansas,4
+585,09/09/2022,9:23:00 PM,Mon Tresor,63,Belt,Accessories,800,149,29,South Carolina,4.1
+586,09/09/2022,7:23:00 PM,ZARA ZONE,61,T-shirt,Clothing,817,105,22,Vermont,2.8
+587,09/09/2022,9:15:00 PM,Fashion Avenue,25,Sneakers,Footwear,749,76,14,Wyoming,3.4
+588,09/10/2022,12:59:00 PM,Wardrobe Collections,33,Sunglasses,Accessories,635,120,11,Colorado,2.7
+589,09/11/2022,7:33:00 PM,Sirah Boutiques,56,Sandals,Footwear,4500,3500,118,West Virginia,3.8
+590,09/11/2022,7:13:00 PM,Gaurav Jewellers,50,Handbag,Accessories,307,38,18,Connecticut,4.4
+591,09/11/2022,4:20:00 PM,Nurjahan's,45,Socks,Clothing,8200,2600,336,Oregon,2.8
+592,09/12/2022,10:30:00 PM,Mahi’s Collection BD,45,Hoodie,Clothing,6000,3100,567,Idaho,5
+593,09/12/2022,8:05:00 PM,S.B Collection,65,Sweater,Clothing,5100,4100,189,Arkansas,4.7
+594,09/12/2022,8:24:00 PM,RBD.Reliance-??????????,63,Pants,Clothing,4000,1300,63,Kansas,3.2
+595,09/12/2022,8:42:00 PM,Emon's Footwear,70,Sneakers,Footwear,675,333,56,Michigan,2.9
+596,9/13/2022,10:40:00 PM,Craft & Collection,53,Gloves,Accessories,587,328,32,Arkansas,3.7
+597,9/13/2022,9:05:00 PM,Elegance Lifestyle,22,T-shirt,Clothing,1200,105,16,Pennsylvania,4.2
+598,9/13/2022,9:36:00 PM,Shoneek's RE,26,Backpack,Accessories,436,131,63,Virginia,3.4
+599,9/13/2022,8:34:00 PM,Star Collection bd,23,Coat,Outerwear,1000,356,422,Minnesota,2.9
+600,9/13/2022,12:25:00 PM,The Velvet Box,25,Coat,Outerwear,600,204,422,Nevada,3.7
+601,9/13/2022,10:41:00 AM,Laptica,69,Sandals,Footwear,931,209,38,Montana,2.7
+602,9/14/2022,7:30:00 PM,Diamond Heaven LTD.,36,Backpack,Accessories,2500,967,86,Nebraska,3.2
+603,9/14/2022,3:39:00 PM,Colourful,21,Sweater,Clothing,1800,1200,103,Indiana,4.9
+604,9/14/2022,10:42:00 PM,Lifestyle Fashion by Ritu Closet,57,Shorts,Clothing,1000,227,30,New Jersey,2.8
+605,9/15/2022,4:30:00 PM,Babies Collection,60,Sunglasses,Accessories,2000,1300,115,Wisconsin,4.7
+606,9/15/2022,11:29:00 PM,Junayra's Secret,44,Shirt,Clothing,3600,1800,219,Minnesota,3.3
+607,9/15/2022,10:30:00 PM,Seerah Stories,31,Shoes,Footwear,3600,2200,110,New Jersey,4.3
+608,9/16/2022,3:29:00 PM,Happy Life - Popy & Asif,57,Hat,Accessories,473,94,26,Oklahoma,3.7
+609,9/17/2022,9:30:00 PM,Muna's Cake World,39,Scarf,Accessories,4000,2600,103,Wisconsin,4.5
+610,9/18/2022,3:34:00 PM,Colourful,48,Belt,Accessories,2500,2300,114,Rhode Island,3.4
+611,9/18/2022,10:28:00 PM,Plaboni's Fashion Gallery,42,T-shirt,Clothing,556,608,482,Indiana,2.7
+612,9/18/2022,11:11:00 PM,ZARA ZONE,56,Shorts,Clothing,2100,323,102,Vermont,4.4
+613,9/17/2022,5:17:00 PM,Fashion n Shade,28,Pants,Clothing,2300,1500,102,Maine,4
+614,9/18/2022,5:58:00 PM,A.I Alisha Anaaya,40,Sunglasses,Accessories,3200,1000,42,Alabama,3.2
+615,9/18/2022,9:43:00 PM,Glam Atire BD,49,Coat,Outerwear,576,150,111,Alabama,4.2
+616,9/19/2022,1:48:00 PM,S.A Corporation,37,Hoodie,Clothing,575,207,14,Idaho,3
+617,9/19/2022,12:36:00 PM,Beauty Care,22,Dress,Clothing,1200,141,19,Arkansas,2.8
+618,9/19/2022,6:20:00 PM,Ciano,27,Blouse,Clothing,1900,988,58,Ohio,4.9
+619,9/19/2022,10:26:00 PM,Your Favourite Aurora Couture,59,Socks,Clothing,1000,145,36,Illinois,4.7
+620,9/19/2022,8:05:00 PM,SASA Sparkles,35,Socks,Clothing,2000,412,20,Nevada,4.4
+621,9/20/2022,9:49:00 PM,MYOS - ?????,58,Shoes,Footwear,2200,478,67,Texas,3.1
+622,9/21/2022,5:20:00 PM,Wardrobe Collections,58,Belt,Accessories,1500,91,37,Nevada,2.6
+623,9/21/2022,9:01:00 PM,Emaan,46,Sweater,Clothing,1500,60,14,Oklahoma,3.9
+624,9/21/2022,12:49:00 PM,Dream Land Fashion,43,Pants,Clothing,537,329,35,Alabama,2.6
+625,9/22/2022,3:34:00 AM,Happy Life - Popy & Asif,39,Scarf,Accessories,879,140,37,South Dakota,4
+626,9/22/2022,4:39:00 PM,NUVIA,59,Skirt,Clothing,212,25,11,Texas,4.9
+627,9/22/2022,12:34:00 PM,Lisa Online Shop,59,Dress,Clothing,762,230,11,Montana,3.3
+628,9/22/2022,3:49:00 PM,Colourful,59,Hat,Accessories,2200,2000,103,Wyoming,3
+629,9/22/2022,11:07:00 PM,Clothing BD G I R L A N A,45,Handbag,Accessories,306,78,13,New York,2.7
+630,9/23/2022,6:19:00 PM,Diamond Garden,27,Pants,Clothing,762,1700,286,Oregon,3.1
+631,9/23/2022,10:37:00 PM,???????-Kushimona,24,T-shirt,Clothing,8000,3400,187,California,4.8
+632,9/23/2022,4:26:00 PM,Eziclick,47,Jacket,Outerwear,4300,3700,423,North Carolina,2.9
+633,9/23/2022,8:26:00 PM,JAHAN Online Shop BD,70,Scarf,Accessories,4300,2400,180,Kentucky,4.5
+634,9/23/2022,11:08:00 PM,Sarafan's Boutique,58,Hat,Accessories,186,68,4,Hawaii,4.6
+635,9/24/2022,6:11:00 PM,Diamond Dream,45,Jacket,Outerwear,905,1800,157,Illinois,5
+636,9/24/2022,6:49:00 PM,Gaurav Jewellers,24,Skirt,Clothing,1000,239,108,West Virginia,4.3
+637,9/24/2022,1:01:00 PM,S.A Corporation,67,Handbag,Accessories,1000,347,14,South Carolina,4.9
+638,9/24/2022,5:13:00 PM,Emporium by Ayaat,31,Backpack,Accessories,883,54,26,Montana,4
+639,9/25/2022,9:05:00 PM,Unknown,52,Coat,Outerwear,381,97,36,North Dakota,3.1
+640,9/25/2022,10:01:00 PM,Harini-?????,29,Belt,Accessories,5100,2900,203,New Mexico,2.6
+641,9/26/2022,9:06:00 PM,Black Rose Collection,62,Handbag,Accessories,391,61,7,Missouri,4.9
+642,9/26/2022,3:21:00 PM,Happy Life - Popy & Asif,19,Coat,Outerwear,781,103,12,West Virginia,3.5
+643,9/26/2022,3:00:00 PM,Noor Jewellers BD,62,Sweater,Clothing,1700,258,20,South Carolina,4.5
+644,9/27/2022,11:36:00 PM,NAAZ Dressup,70,Blouse,Clothing,3600,3100,192,West Virginia,2.8
+645,9/27/2022,10:30:00 PM,Barakah Gallery,20,Blouse,Clothing,5400,9500,319,Alaska,4.2
+646,9/27/2022,4:33:00 PM,NUVIA,67,Belt,Accessories,267,24,9,West Virginia,4.1
+647,9/27/2022,5:37:00 PM,Closet,65,Jacket,Outerwear,531,78,11,New Mexico,3.5
+648,9/27/2022,6:12:00 PM,Zannat Express,45,Shorts,Clothing,1000,551,453,South Dakota,4
+649,9/27/2022,10:10:00 PM,Parizaad,26,Hat,Accessories,764,176,154,Oklahoma,4
+650,9/27/2022,10:27:00 PM,Wappi,36,Pants,Clothing,1000,292,45,Oklahoma,2.5
+651,9/28/2022,10:08:00 PM,Nobin Alo,36,Blouse,Clothing,664,124,11,Alabama,4.2
+652,9/28/2022,9:04:00 PM,Navely Mart,20,Belt,Accessories,299,78,6,Mississippi,3.4
+653,9/28/2022,3:44:00 PM,Colourful,30,Handbag,Accessories,1900,2700,162,Mississippi,4.8
+654,9/28/2022,11:00:00 PM,Allure Fashion,34,Hoodie,Clothing,469,66,7,Nebraska,4.9
+655,9/29/2022,9:14:00 PM,S.A Corporation,63,Jacket,Outerwear,1400,591,24,Colorado,3.6
+656,9/29/2022,6:25:00 PM,Wardrobe Collections,18,Scarf,Accessories,2000,85,43,Pennsylvania,4
+657,9/29/2022,6:41:00 PM,Milana,55,Jeans,Clothing,509,90,21,Utah,2.6
+658,9/29/2022,8:41:00 PM,Korean Trendy Shop,48,Handbag,Accessories,980,121,18,Massachusetts,3.1
+659,9/29/2022,11:21:00 PM,Sainika's Fashion House,45,Jacket,Outerwear,2400,1300,103,Iowa,3.6
+660,9/29/2022,10:25:00 PM,Roohaniyat Exclusive,29,Hat,Accessories,802,183,33,Florida,4
+661,9/30/2022,4:21:00 PM,Eziclick,55,Sneakers,Footwear,2100,452,40,Louisiana,3.9
+662,9/30/2022,12:25:00 PM,Lisa Online Shop,55,Hat,Accessories,622,58,12,Kansas,3.9
+663,9/30/2022,12:44:00 PM,Labonya's Fahion & Jewellery,55,Socks,Clothing,1000,346,34,Kansas,3.3
+664,10/01/2022,8:30:00 AM,Pink Fairy,48,Scarf,Accessories,748,423,475,Kentucky,2.9
+665,10/01/2022,11:15:00 PM,Carnesia,42,Socks,Clothing,749,1100,432,New Mexico,3.1
+666,10/01/2022,12:31:00 PM,LUXIQUE,21,Hat,Accessories,1400,188,32,North Carolina,4.7
+667,10/02/2022,10:25:00 AM,AR Shop,45,Jacket,Outerwear,600,194,172,North Dakota,3.9
+668,10/02/2022,10:04:00 PM,Simu Fashion,23,Shorts,Clothing,596,446,460,North Dakota,4.3
+669,10/02/2022,9:33:00 PM,Anika's Collection Online BD,66,Blouse,Clothing,615,99,187,Illinois,4.2
+670,10/03/2022,10:36:00 PM,Natural by Rumana,32,Coat,Outerwear,891,366,468,Maine,4.3
+671,10/03/2022,3:48:00 PM,Colourful,52,Sweater,Clothing,2600,2800,403,Indiana,4.6
+672,10/05/2022,10:06:00 PM,Sananda Fashion,54,Handbag,Accessories,107,137,440,North Dakota,3.8
+673,10/06/2022,8:50:00 PM,Sharaza,37,T-shirt,Clothing,413,154,60,Missouri,3.3
+674,10/07/2022,8:49:00 PM,Fashion by Arora,29,Sandals,Footwear,10000,2400,197,Alaska,3.7
+675,10/08/2022,9:10:00 PM,Style Gown Park,47,Gloves,Accessories,216,60,10,North Dakota,4.3
+676,10/08/2022,3:00:00 PM,Noor Jewellers BD,47,Shorts,Clothing,1800,284,34,Connecticut,4.1
+677,10/09/2022,7:29:00 PM,Sourovi Collections,42,Sandals,Footwear,26000,2600,795,Wisconsin,3.2
+678,10/10/2022,12:30:00 PM,Sunnah,34,Backpack,Accessories,11000,15000,150,New Jersey,3.8
+679,10/10/2022,10:47:00 AM,Seen Food Bucket,38,Sneakers,Footwear,8700,643,20,Missouri,3.2
+680,10/10/2022,10:26:00 PM,Maheroo Collection,55,Sunglasses,Accessories,157,52,3,California,3.5
+681,10/10/2022,8:24:00 PM,Star Collection bd,27,T-shirt,Clothing,409,369,18,Washington,3.1
+682,10/10/2022,10:16:00 PM,Tamaz BD,55,Jeans,Clothing,492,82,5,Minnesota,4.2
+683,10/10/2022,6:10:00 PM,Carnesia,66,Shirt,Clothing,456,313,22,California,3.4
+684,10/10/2022,10:22:00 PM,S.A Corporation,44,Hat,Accessories,811,272,17,Texas,3.5
+685,10/11/2022,4:25:00 PM,Elham,39,Blouse,Clothing,20000,4400,701,Montana,4
+686,10/11/2022,10:08:00 PM,Fashion Zone,23,Jacket,Outerwear,229,66,6,Arizona,4.4
+687,10/11/2022,7:35:00 PM,Attire,29,Skirt,Clothing,250,127,138,Minnesota,2.9
+688,10/11/2022,8:36:00 PM,Garish,20,Gloves,Accessories,2500,641,110,Nebraska,3.6
+689,10/12/2022,11:35:00 PM,Lisa Online Shop,42,T-shirt,Clothing,1100,174,19,Virginia,4.4
+690,10/12/2022,11:24:00 PM,Khandani Khanapina,55,Jacket,Outerwear,184,62,62,Connecticut,4.5
+691,10/12/2022,11:28:00 AM,Wardrobe Collections,66,Jacket,Outerwear,1000,54,38,New Jersey,3.8
+692,10/12/2022,11:05:00 AM,Fashion on BD,24,Shorts,Clothing,7400,3600,145,Kentucky,3.6
+693,10/13/2022,4:02:00 PM,Amanat Fashion World,62,Hat,Accessories,1000,309,504,Washington,4.3
+694,10/13/2022,10:57:00 PM,Maishaï¿½s-Raiment,28,Handbag,Accessories,284,78,8,Florida,4
+695,10/13/2022,3:42:00 AM,Clothing Express,30,Jeans,Clothing,691,99,17,Oklahoma,3.4
+696,10/13/2022,3:41:00 PM,Naz Couture,22,Shoes,Footwear,4200,9600,773,Iowa,4.4
+697,10/14/2022,3:42:00 PM,Colourful,28,T-shirt,Clothing,1900,3600,388,New Hampshire,2.8
+698,10/14/2022,4:37:00 PM,Gaurav Jewellers,35,Jewelry,Accessories,881,111,23,Georgia,2.8
+699,10/14/2022,10:38:00 PM,Osun Lifestyle,45,Handbag,Accessories,4900,1600,85,Mississippi,4.9
+700,10/14/2022,10:56:00 PM,Cape Town Fashion House,43,Shirt,Clothing,2400,3100,383,New Hampshire,4.2
+701,10/15/2022,9:28:00 PM,S.A Corporation,55,Belt,Accessories,857,332,60,Washington,2.9
+702,10/15/2022,3:37:00 PM,Colourful,31,Dress,Clothing,1700,4000,361,Ohio,4.6
+703,10/15/2022,9:29:00 PM,Farmasi Bangladesh,42,Skirt,Clothing,353,219,161,Maryland,2.8
+704,10/16/2022,7:38:00 PM,Annisa Fashion World,40,Blouse,Clothing,470,122,484,Delaware,2.6
+705,10/16/2022,10:14:00 PM,Urmy's Corner,39,Jeans,Clothing,508,88,26,Tennessee,3.5
+706,10/16/2022,5:27:00 PM,Gaurav Jewellers,41,Hoodie,Clothing,229,159,392,Arkansas,3.5
+707,10/16/2022,8:30:00 PM,S.A Corporation,56,T-shirt,Clothing,312,156,18,Tennessee,3.4
+708,10/16/2022,1:51:00 PM,Lisa Online Shop,43,Sunglasses,Accessories,361,154,9,New Hampshire,3.9
+709,10/16/2022,3:31:00 PM,Colourful,22,Jacket,Outerwear,5600,5600,530,Minnesota,3.3
+710,10/16/2022,11:14:00 PM,Bonolota,47,Shoes,Footwear,124,22,11,Florida,4.1
+711,10/16/2022,11:30:00 PM,My Store,50,Handbag,Accessories,2900,1300,129,Tennessee,3
+712,10/16/2022,7:49:00 PM,Shadow/??????,58,Sweater,Clothing,1400,1100,40,California,3
+713,10/17/2022,11:15:00 PM,AHLAM Matjar,50,Scarf,Accessories,4500,1600,72,Oregon,3.2
+714,10/17/2022,11:02:00 PM,Nazia's Kitchen,43,Skirt,Clothing,4800,1500,21,Tennessee,3.9
+715,10/17/2022,10:35:00 PM,Tungobee,38,Gloves,Accessories,490,85,13,North Carolina,3.6
+716,10/18/2022,10:22:00 PM,???? ????,44,T-shirt,Clothing,14000,2900,126,Tennessee,3.1
+717,10/18/2022,10:03:00 PM,Mehek,30,Sandals,Footwear,537,101,13,Nebraska,4.8
+718,10/18/2022,11:15:00 PM,Blessed Hand Bakery,47,Sweater,Clothing,1000,188,14,Maine,3.8
+719,10/19/2022,8:36:00 PM,Exclusive Fashion,30,Belt,Accessories,184,89,5,Illinois,2.8
+720,10/19/2022,4:53:00 PM,Tahoor,49,Hoodie,Clothing,2300,3600,365,Colorado,4
+721,10/19/2022,10:04:00 PM,Buy Your Dream,56,Socks,Clothing,350,38,1,Pennsylvania,4.6
+722,10/20/2022,7:04:00 PM,Emporium Uttara,70,Sandals,Footwear,1400,125,50,Minnesota,3.5
+723,10/20/2022,10:07:00 PM,Popiya Styles,22,Blouse,Clothing,4900,1700,208,Nevada,3.7
+724,10/20/2022,9:54:00 PM,Mini Thailand,51,Boots,Footwear,773,108,32,Connecticut,4.9
+725,10/20/2022,1:11:00 PM,Sathis Collection,22,Hat,Accessories,585,168,24,Ohio,4.1
+726,10/21/2022,4:46:00 AM,Vinayak Gold & Diamond Garden,37,Shirt,Clothing,4500,403,48,Kentucky,4.6
+727,10/21/2022,10:30:00 PM,Sunnah,49,Shorts,Clothing,6900,2000,43,Minnesota,4.5
+728,10/22/2022,9:59:00 PM,MatliYaa ALMaaz,61,Handbag,Accessories,580,124,28,Tennessee,5
+729,10/23/2022,9:54:00 PM,Cloth Zone By Prema,41,Dress,Clothing,585,122,3,North Dakota,3.8
+730,10/23/2022,10:51:00 PM,Clothing Express,57,Hat,Accessories,536,181,18,Minnesota,4.7
+731,10/23/2022,11:55:00 PM,Aohon Barri,34,Sweater,Clothing,901,268,431,Nebraska,2.8
+732,10/23/2022,11:00:00 PM,Hizabaya,27,Coat,Outerwear,3500,1600,87,Delaware,2.6
+733,10/23/2022,2:34:00 PM,Shopping Mela.com,39,Hoodie,Clothing,274,138,23,Minnesota,3.8
+734,10/23/2022,8:29:00 PM,Dream Wave,62,Jewelry,Accessories,386,44,1,Rhode Island,2.8
+735,10/24/2022,10:09:00 PM,Sauda's Attire,34,T-shirt,Clothing,624,75,18,Michigan,2.6
+736,10/25/2022,11:44:00 PM,Unique Fashion,53,Pants,Clothing,1300,284,401,New Jersey,3.4
+737,10/25/2022,5:08:00 PM,????? ?????????,35,Sweater,Clothing,17000,756,595,South Dakota,4.5
+738,10/26/2022,9:31:00 PM,???? ????,38,Pants,Clothing,1900,1100,27,North Carolina,3.8
+739,10/26/2022,5:00:00 PM,Kerchief,32,Socks,Clothing,80000,6900,2500,Oregon,3
+740,10/27/2022,3:21:00 PM,Borsha Creation,47,Hoodie,Clothing,306,260,468,Montana,3.7
+741,10/28/2022,12:19:00 PM,Aohon Bari,53,Scarf,Accessories,1500,390,592,New Jersey,4.4
+742,10/28/2022,5:54:00 AM,Fashion Factory,60,Dress,Clothing,438,49,16,Arizona,3.1
+743,10/29/2022,12:19:00 PM,Kiinto,31,Sandals,Footwear,10000,4600,1400,Vermont,4.2
+744,10/29/2022,11:07:00 AM,SkinWish,44,Dress,Clothing,966,476,7,Colorado,3.1
+745,10/30/2022,7:25:00 PM,FIMA,29,Pants,Clothing,948,218,23,Tennessee,5
+746,10/30/2022,9:04:00 PM,Glam Traders BD,19,Blouse,Clothing,415,357,53,New Jersey,2.7
+747,10/31/2022,10:00:00 PM,Trendy Corner,54,Jeans,Clothing,544,72,2,Montana,3.8
+748,10/31/2022,7:10:00 PM,Sananda Fashion,40,Pants,Clothing,589,58,23,Montana,3.3
+749,10/31/2022,10:49:00 PM,Aohon Bari,39,Sunglasses,Accessories,722,300,989,Nevada,4.8
+750,10/31/2022,10:17:00 PM,ZeluXia BD,44,Backpack,Accessories,461,359,14,Nevada,3.4
+751,10/31/2022,8:40:00 PM,Sajugujo,22,Hoodie,Clothing,1000,215,94,Louisiana,4.4
+752,11/01/2022,12:23:00 PM,Jotey,30,Boots,Footwear,9900,6300,3200,Illinois,3.9
+753,11/01/2022,12:00:00 PM,Easy World Fashion,69,Gloves,Accessories,5800,1900,125,South Carolina,3.9
+754,11/01/2022,8:30:00 PM,NADIA BORKA HOUSE,28,Blouse,Clothing,26000,4600,850,Washington,4.2
+755,11/01/2022,12:47:00 PM,PariSanny,57,Sweater,Clothing,1200,539,23,Nebraska,4
+756,11/02/2022,10:19:00 AM,Tm Fashion House,46,Dress,Clothing,2100,6100,2000,Alabama,2.6
+757,11/02/2022,9:22:00 PM,SANAM Collection,48,Socks,Clothing,2000,7500,1800,Montana,4.4
+758,11/02/2022,3:25:00 PM,SANY FOOTWEAR,24,Shirt,Clothing,5400,11000,2000,Minnesota,3.2
+759,11/02/2022,8:34:00 PM,Chinese Fashion Hub,50,Sandals,Footwear,394,66,9,Ohio,4.3
+760,11/02/2022,11:09:00 PM,Mahis Collection BD,29,Shoes,Footwear,14000,3000,597,New York,4.9
+761,11/02/2022,12:37:00 PM,Rizly Mound,61,Sandals,Footwear,893,360,54,Indiana,3.8
+762,11/03/2022,7:09:00 AM,Moumita's gleam,34,Gloves,Accessories,2400,9200,2000,Delaware,2.5
+763,11/03/2022,8:55:00 PM,Maisha's-Raiment,27,Boots,Footwear,350,64,14,Connecticut,4.9
+764,11/03/2022,6:38:00 PM,Sauda's Attire,38,Blouse,Clothing,339,66,11,New York,3
+765,11/03/2022,10:41:00 PM,Clothing Express,25,Sandals,Footwear,1100,152,37,Alabama,3.2
+766,11/03/2022,11:19:00 PM,Nishi Fashion,54,Coat,Outerwear,628,60,118,Massachusetts,2.9
+767,11/03/2022,8:33:00 PM,Dmyday,53,Jacket,Outerwear,4500,1500,287,South Carolina,2.8
+768,11/03/2022,8:56:00 PM,Skin revive with SnS global,23,Jewelry,Accessories,849,403,11,West Virginia,3.1
+769,11/03/2022,8:42:00 PM,Glamour Touch Online ,19,Hat,Accessories,634,126,25,Kentucky,3.4
+770,11/03/2022,10:10:00 PM,Fashion On BD,57,Shoes,Footwear,523,64,18,New Jersey,2.9
+771,11/04/2022,10:33:00 PM,Anika Fashion House,19,Coat,Outerwear,655,291,475,New York,3.2
+772,11/04/2022,11:02:00 PM,ALLER,33,Boots,Footwear,7800,1700,201,Massachusetts,3.8
+773,11/05/2022,10:59:00 PM,Zareen’s Cumilla,33,Scarf,Accessories,1100,3900,579,Florida,3.6
+774,11/05/2022,8:48:00 PM,Plaboni's fashion gallery,38,Hat,Accessories,1500,6400,420,Michigan,4.3
+775,11/05/2022,7:20:00 PM,Eve's Closet,47,Socks,Clothing,2500,4200,273,Oregon,4.8
+776,11/05/2022,7:20:00 PM,Alankar Niketon,39,T-shirt,Clothing,1500,193,20,Michigan,2.5
+777,11/05/2022,9:49:00 PM,Signature Colour Classic,32,Jewelry,Accessories,450,43,21,Washington,2.5
+778,11/06/2022,9:38:00 PM,H&S ,27,Skirt,Clothing,1200,519,125,Alaska,4.6
+779,11/06/2022,4:04:00 PM,BD Fashion Exclusive,67,Socks,Clothing,1400,4900,251,Montana,4.2
+780,11/06/2022,5:06:00 PM,Showstopper,46,Belt,Accessories,1400,2900,109,New Mexico,4.2
+781,11/06/2022,7:49:00 PM,Style By Fulltokka,36,Boots,Footwear,1600,5800,309,Connecticut,4.8
+782,11/06/2022,7:18:00 PM,Ayesha Abaya Boutique Dubai,62,Socks,Clothing,3400,1500,64,Alaska,4.5
+783,11/06/2022,10:57:00 PM,RP Shopping Zone,31,Pants,Clothing,1700,664,65,Ohio,3.3
+784,11/06/2022,4:08:00 PM,Buniadi Shaj,68,Socks,Clothing,4200,1400,55,Montana,2.7
+785,11/07/2022,9:57:00 PM,Mehjabin's Dream Icon,57,Belt,Accessories,545,210,486,Nebraska,2.8
+786,11/07/2022,2:01:00 PM,????? ????? ? ??? ???? ??????,22,Jacket,Outerwear,20000,2600,231,Oklahoma,3.5
+787,11/07/2022,11:30:00 PM,Inayra's by Israt,26,Shirt,Clothing,2700,4200,428,Kentucky,3
+788,11/08/2022,8:31:00 PM,Mercury,43,Gloves,Accessories,1200,3600,178,Idaho,4.5
+789,11/08/2022,4:08:00 PM,Falgoon,45,Handbag,Accessories,1100,4800,317,Maryland,4.3
+790,11/08/2022,5:54:00 PM,Huraira's,64,Sweater,Clothing,1600,8300,287,Tennessee,4.1
+791,11/08/2022,8:55:00 PM,Shopping mela jewellery collection,28,Skirt,Clothing,1200,5100,2000,Michigan,4.3
+792,11/09/2022,7:11:00 PM,Diamond Corner,47,Dress,Clothing,643,139,19,Tennessee,5
+793,11/09/2022,8:11:00 PM,Mehek,53,Pants,Clothing,372,58,12,Rhode Island,3.8
+794,11/09/2022,8:13:00 PM,Decorative Cakes by Tawsia,42,Hat,Accessories,3000,593,39,Florida,4.9
+795,11/09/2022,9:51:00 PM,Selected-Point,51,Boots,Footwear,481,111,61,Louisiana,5
+796,11/10/2022,4:14:00 PM,Yana's Creation,62,Sandals,Footwear,2600,589,27,Arkansas,4.3
+797,11/10/2022,8:51:00 PM,Noksha Kutir : ???? ?????,18,Coat,Outerwear,3300,4700,216,Kentucky,4.1
+798,11/10/2022,6:41:00 PM,Kaniz Boutiques & Creations,48,Blouse,Clothing,1300,5800,1200,Kansas,4.5
+799,11/10/2022,11:09:00 PM,Mim Fashion,20,Shorts,Clothing,258,57,3,Vermont,3.6
+800,11/11/2022,8:48:00 PM,Style Feed,32,Blouse,Clothing,2300,169,52,Nevada,3
+801,11/12/2022,5:46:00 PM,?? ????? ?????- Baro Hater Kunjo,26,Jacket,Outerwear,441,80,28,Oklahoma,3.7
+802,11/12/2022,12:14:00 PM,Diamond Pslace Ltd.,31,Shirt,Clothing,1900,15000,2200,Alabama,4.3
+803,11/12/2022,11:03:00 PM,Makeup Meets,55,Handbag,Accessories,865,410,55,Louisiana,4.6
+804,11/14/2022,9:35:00 PM,Isro Desire,49,T-shirt,Clothing,252,151,491,Ohio,4.7
+805,11/14/2022,9:17:00 PM,Reverie Fashion,42,Hoodie,Clothing,309,38,4,Texas,4.6
+806,11/14/2022,10:37:00 PM,A R Shop,64,Jewelry,Accessories,232,45,24,Maryland,3
+807,11/14/2022,11:18:00 PM,Arabian  Outfit,68,Jewelry,Accessories,424,55,34,West Virginia,3.4
+808,11/14/2022,10:49:00 PM,Tamaz BD,68,Hoodie,Clothing,2900,3600,146,Ohio,3.8
+809,11/14/2022,10:30:00 PM,Tarin's Tasty World,41,Scarf,Accessories,1400,1400,176,Indiana,3.1
+810,11/14/2022,11:03:00 PM,Maheroo Style,51,Shoes,Footwear,510,154,19,Wyoming,4.4
+811,11/15/2022,9:12:00 PM,Sujipana's Shwad ????????,44,Jeans,Clothing,913,2400,83,Michigan,4.5
+812,11/15/2022,7:36:00 PM,Lesia by Farzana,27,Jewelry,Accessories,1000,4200,217,Maine,2.8
+813,11/15/2022,6:42:00 PM,Torulota,36,Coat,Outerwear,6400,1300,125,Utah,2.7
+814,11/15/2022,9:33:00 PM,Antara's Closet,19,Backpack,Accessories,558,162,26,Iowa,3.4
+815,11/16/2022,10:24:00 PM,Lisa Online Shop,49,Socks,Clothing,1500,2500,144,Maryland,4.6
+816,11/16/2022,9:02:00 PM,A S Frozen Corner,18,Scarf,Accessories,5400,1200,77,Texas,5
+817,11/16/2022,5:28:00 PM,Soulmate by Westerna,36,Sunglasses,Accessories,4300,7400,2200,Ohio,3.5
+818,11/16/2022,10:21:00 PM,???????-Shonkhonil ???????,36,Socks,Clothing,2500,4700,249,North Dakota,3.3
+819,11/16/2022,7:48:00 PM,Juliet's Creation,19,Coat,Outerwear,1700,5200,242,West Virginia,4.5
+820,11/16/2022,12:34:00 PM,Hijab Fashion Wholesale BD,43,Sandals,Footwear,6500,2000,308,North Carolina,3.1
+821,11/17/2022,11:23:00 PM,Noksha Kutir : ???? ?????,31,Blouse,Clothing,1000,4200,209,Georgia,4
+822,11/17/2022,10:19:00 PM,Sa-Ra's Creation,63,Dress,Clothing,5200,5500,352,Kansas,2.5
+823,11/17/2022,2:32:00 PM,Glam Closet,41,Pants,Clothing,1800,257,128,Maine,4.4
+824,11/17/2022,10:51:00 PM,Lam's World,48,Sneakers,Footwear,779,73,34,South Carolina,4.4
+825,11/17/2022,9:46:00 PM,Rizziq Way,68,Boots,Footwear,372,61,113,South Carolina,3.2
+826,11/17/2022,11:36:00 PM,Trendy Gohona,53,Handbag,Accessories,2700,338,66,Kentucky,3.8
+827,11/17/2022,10:02:00 PM,Karu's Closet,36,Handbag,Accessories,924,127,88,Arizona,4.6
+828,11/18/2022,9:33:00 PM,Aysha's Glamorous Design,46,Sweater,Clothing,631,90,14,New York,4.9
+829,11/18/2022,2:52:00 PM,Afsana's Collection,21,Sandals,Footwear,358,44,9,New Hampshire,3.5
+830,11/18/2022,4:46:00 PM,Nilanjona's Fashion,52,Socks,Clothing,512,96,12,Ohio,3.4
+831,11/18/2022,6:09:00 PM,Colours & Stitches,66,Gloves,Accessories,6200,294,17,Hawaii,3.9
+832,11/18/2022,7:43:00 PM,Minha's Trend,19,Hoodie,Clothing,392,62,34,Texas,3.9
+833,11/18/2022,10:28:00 PM,Sunshine Fashion Mart,44,Dress,Clothing,545,64,11,Illinois,4.2
+834,11/18/2022,3:59:00 PM,Creamy Chokers,50,Shirt,Clothing,3100,474,31,Massachusetts,3.4
+835,11/18/2022,8:21:00 PM,Sesa Bangladesh,51,Shorts,Clothing,4600,163,87,North Carolina,4.9
+836,11/19/2022,1:44:00 PM,Shiny Treasure BD,25,Sandals,Footwear,580,99,15,West Virginia,2.9
+837,11/19/2022,9:53:00 PM,Lavish By Karishma,62,Sweater,Clothing,504,136,28,Delaware,4.9
+838,11/19/2022,1:44:00 PM,Shiny Treasure BD,48,Dress,Clothing,580,99,15,Idaho,4.6
+839,11/19/2022,3:40:00 PM,Ellora,62,Boots,Footwear,1200,60,14,Oregon,3.6
+840,11/19/2022,9:31:00 PM,Platinum Outlet,22,Pants,Clothing,2900,5200,207,Maine,4.3
+841,11/19/2022,8:49:00 PM,Prothom Collection,48,Gloves,Accessories,937,2400,117,South Dakota,4.6
+842,11/19/2022,6:55:00 PM,Lesia e-Emporium,48,Pants,Clothing,2600,2900,137,New Mexico,4.7
+843,11/19/2022,11:22:00 PM,Dream Wave,62,Scarf,Accessories,563,110,21,Washington,3.5
+844,11/19/2022,10:35:00 PM,Antara's Closet,24,Shorts,Clothing,670,119,53,Georgia,2.8
+845,11/19/2022,8:28:00 PM,Trendy Corner,39,Shoes,Footwear,898,157,37,Idaho,4
+846,11/20/2022,5:05:00 PM,Anzum's Pastry Corner,35,Handbag,Accessories,3200,1500,46,Colorado,4.3
+847,11/20/2022,3:57:00 PM,Nahar Fashion BD,47,Sandals,Footwear,1500,3500,341,Kentucky,3.8
+848,11/20/2022,4:43:00 PM,Apsara by Antara,22,Socks,Clothing,4600,997,87,New Jersey,3
+849,11/21/2022,5:15:00 PM,Sparkle Jewellers,38,Shirt,Clothing,1100,338,485,Oregon,4.6
+850,11/21/2022,2:32:00 PM,Falgoon,53,Shoes,Footwear,4500,6600,429,Nebraska,4.8
+851,11/21/2022,6:38:00 PM,???? ????? ï¿½ by Sazdah,31,Backpack,Accessories,936,2300,277,Massachusetts,4.7
+852,11/22/2022,6:51:00 PM,Saylon-?????,31,Shirt,Clothing,814,214,496,Nebraska,3.9
+853,11/22/2022,10:46:00 PM,Lomofei,65,Handbag,Accessories,3200,4100,206,Hawaii,4
+854,11/22/2022,6:20:00 PM,Fashion Glam,48,Jewelry,Accessories,1200,4000,214,Indiana,3.7
+855,11/22/2022,4:07:00 PM,Dressy Queen,18,Shirt,Clothing,1300,3700,210,Illinois,3.7
+856,11/22/2022,7:56:00 PM,Colours,46,Handbag,Accessories,1900,12000,2300,Colorado,4.2
+857,11/23/2022,4:37:00 PM,Style by Jannat,52,Pants,Clothing,1300,4600,359,Pennsylvania,4.7
+858,11/23/2022,6:16:00 PM,BD Cake Lovers,50,T-shirt,Clothing,2400,896,111,Ohio,4.3
+859,11/23/2022,6:16:00 PM,Showkhin,49,Sneakers,Footwear,2400,896,111,Pennsylvania,4.9
+860,11/23/2022,7:39:00 PM,LOTUS,69,Jewelry,Accessories,999,3100,313,Mississippi,3.9
+861,11/23/2022,10:27:00 PM,RHYME,36,Shirt,Clothing,3100,899,43,Kentucky,3.4
+862,11/23/2022,2:43:00 PM,The Swish Closet,30,Blouse,Clothing,519,108,35,Alaska,4.2
+863,11/24/2022,10:22:00 PM,Alveesha,25,Sneakers,Footwear,223,383,172,Georgia,4.7
+864,11/24/2022,11:30:00 PM,Made By Me,19,Dress,Clothing,3200,1700,187,South Dakota,4
+865,11/24/2022,9:03:00 PM,Dress Cube,34,Boots,Footwear,998,4400,219,South Carolina,4
+866,11/24/2022,4:14:00 PM,Mihighor : ??????,29,Skirt,Clothing,1500,2900,206,Tennessee,3.1
+867,11/24/2022,1:30:00 PM,Sirazam Munira,50,Shirt,Clothing,2200,1400,59,Colorado,4.2
+868,11/24/2022,6:02:00 PM,Sirah Boutiques,31,Shorts,Clothing,2000,830,59,Wisconsin,3.7
+869,11/24/2022,10:02:00 PM,Maryam's Fashion Gallery,41,Hat,Accessories,2300,911,42,Georgia,3.1
+870,11/24/2022,8:22:00 PM,The Lafz,52,Shoes,Footwear,385,109,36,Maryland,3.7
+871,11/25/2022,9:41:00 PM,The Shafina'z Kitchen,27,Pants,Clothing,3800,3300,111,New Jersey,3.2
+872,11/25/2022,9:25:00 PM,Dhaka Smart Bangladesh,49,Backpack,Accessories,2000,2900,297,Nevada,2.8
+873,11/26/2022,7:13:00 PM,Azmeer,69,Pants,Clothing,290,82,35,Michigan,2.9
+874,11/26/2022,2:42:00 PM,Dream Fashion Multi Creation,45,Sunglasses,Accessories,7300,7200,2300,Wyoming,3.5
+875,11/26/2022,8:40:00 PM,TaatiBati.com-?????????.??,20,Sweater,Clothing,1000,4100,383,Massachusetts,3.8
+876,11/26/2022,8:29:00 PM,Nikkah By Kibria Ratul,25,Blouse,Clothing,814,280,38,Washington,4.7
+877,11/27/2022,11:36:00 PM,Aftaz Clothing,38,Scarf,Accessories,1100,2800,154,Maine,4.5
+878,11/27/2022,9:55:00 PM,Astha,55,T-shirt,Clothing,1400,5000,392,Montana,3.9
+879,11/27/2022,10:36:00 PM,Glam Closet,62,Sunglasses,Accessories,1300,103,102,Oklahoma,3.4
+880,11/27/2022,12:14:00 PM,Najma's Fashion & Jewellery,54,Shoes,Footwear,484,186,312,North Dakota,4.6
+881,11/27/2022,7:27:00 AM,VIVA,61,Pants,Clothing,625,139,20,Connecticut,4.6
+882,11/28/2022,8:45:00 PM,Style Exhibit,50,Sneakers,Footwear,4400,996,674,Texas,4.7
+883,11/28/2022,8:43:00 PM,Cloud Shop BD,65,Shoes,Footwear,298,212,11,Delaware,3.2
+884,11/28/2022,12:59:00 PM,Gootipa- ??????,68,Shorts,Clothing,2200,3200,141,Mississippi,5
+885,11/29/2022,1:29:00 PM,Dhakaiya Rasoi,55,Handbag,Accessories,5100,1200,85,Minnesota,4.5
+886,11/29/2022,11:43:00 PM,Zarin's,57,Handbag,Accessories,1000,163,84,Georgia,3.5
+887,11/29/2022,8:30:00 PM,Worldbrandbd.com,56,Shoes,Footwear,391,120,84,Iowa,4.5
+888,11/30/2022,2:40:00 PM,Foodrama,29,Jewelry,Accessories,2200,770,76,New York,3.2
+889,12/01/2022,3:46:00 PM,HM3,24,Shorts,Clothing,1300,3500,507,Nevada,4.6
+890,12/01/2022,10:37:00 PM,Miss Sixteen,59,Blouse,Clothing,2200,3500,384,Virginia,4
+891,12/01/2022,11:13:00 PM,Bag House By Hafsa,62,Coat,Outerwear,6500,213,36,Idaho,4.2
+892,12/01/2022,7:09:00 PM,Rupunty's Closet,58,Hat,Accessories,333,76,27,Colorado,4.1
+893,12/01/2022,6:00:00 PM,Rainstorm,64,Socks,Clothing,2000,165,56,Wisconsin,3.6
+894,12/01/2022,10:13:00 PM,Almary - ??????,48,Sandals,Footwear,344,118,20,Connecticut,3.7
+895,12/01/2022,3:38:00 PM,Lubabah,60,Scarf,Accessories,1000,365,561,Kansas,3.6
+896,12/02/2022,7:20:00 PM,Silk Somahar,52,Scarf,Accessories,828,88,495,Pennsylvania,3.8
+897,12/02/2022,6:12:00 PM,Cindrella's Closet,63,Blouse,Clothing,1800,3900,189,Utah,3
+898,12/02/2022,7:54:00 PM,S.B Collection,44,T-shirt,Clothing,2000,5200,536,Oregon,3.4
+899,12/02/2022,1:00:00 PM,Mujawharat,63,Shoes,Footwear,801,210,41,West Virginia,4.8
+900,12/03/2022,9:09:00 AM,Shaher's Closet,66,Gloves,Accessories,430,136,30,Montana,2.6
+901,12/03/2022,10:31:00 PM,Style Edge,22,Sunglasses,Accessories,590,85,17,Kentucky,2.9
+902,12/03/2022,6:38:00 PM,Fair Touch- ????? ???,62,Shoes,Footwear,4100,201,268,Minnesota,4.9
+903,12/04/2022,8:00:00 PM,Roja's Fashion House,39,Dress,Clothing,4100,1100,84,Louisiana,5
+904,12/05/2022,10:49:00 PM,LUXIQUE,25,Blouse,Clothing,2100,269,252,Delaware,4.6
+905,12/05/2022,11:58:00 PM,Kingvisionbd.com,70,Sweater,Clothing,1300,1200,114,Arizona,4.2
+906,12/06/2022,10:19:00 PM,SAJ Couture Official,52,Jacket,Outerwear,356,53,19,Nevada,4.9
+907,12/06/2022,6:33:00 PM,Mahi Boutiques Online Shop,68,Backpack,Accessories,1200,2500,155,Alaska,4.8
+908,12/07/2022,7:12:00 PM,Mom's Desire,18,Shorts,Clothing,1900,306,479,Utah,3
+909,12/07/2022,7:08:00 PM,Closet by Momtaz,18,Socks,Clothing,604,66,30,Kansas,3.5
+910,12/07/2022,9:02:00 PM,BOIL BAKE n FRY,63,Sneakers,Footwear,1700,856,69,North Carolina,3.4
+911,12/07/2022,10:11:00 PM,WAZEHAA Moissanite Diamond,47,Sneakers,Footwear,1300,6200,244,Maryland,3.4
+912,12/07/2022,10:45:00 PM,SelfCare Beauty,43,Blouse,Clothing,331,122,19,Maine,4.9
+913,12/07/2022,6:58:00 PM,Maha' Vanity,60,Gloves,Accessories,1800,120,39,Illinois,4.4
+914,12/07/2022,4:06:00 PM,Katan Sareer Mela,49,Handbag,Accessories,2000,3300,577,Pennsylvania,4.2
+915,12/07/2022,8:45:00 PM,Difa's,28,Jeans,Clothing,54,10,30,Alaska,3.1
+916,12/08/2022,4:06:00 PM,One Purchase bd,32,Scarf,Accessories,1100,113,98,New Mexico,4
+917,12/08/2022,5:28:00 PM,Purple Floozy,29,Sandals,Footwear,360,59,33,Arkansas,4.8
+918,12/08/2022,9:16:00 PM,????? by ??????,35,Sandals,Footwear,440,53,9,Alaska,3.3
+919,12/08/2022,10:48:00 PM,Afrin's Closet,23,Dress,Clothing,411,38,9,Louisiana,4.7
+920,12/08/2022,8:59:00 PM,Lamazi Queen,70,Skirt,Clothing,522,215,1800,North Dakota,3.2
+921,12/08/2022,5:44:00 PM,Blooming Beauty by Moon,23,Shorts,Clothing,124,84,26,Rhode Island,5
+922,12/10/2022,12:39:00 PM,Sisterï¿½s Kitchen,43,Jeans,Clothing,5100,1100,78,Connecticut,4.9
+923,12/11/2022,10:16:00 PM,Pink Fairy,29,Socks,Clothing,1500,3000,165,New York,4.9
+924,12/11/2022,10:24:00 PM,Discount Live,61,Coat,Outerwear,293,99,28,Kentucky,3.7
+925,12/11/2022,9:47:00 PM,Beautysiaa,29,Boots,Footwear,1000,247,4,Maine,3
+926,12/11/2022,5:51:00 PM,Anita's Mirror,66,Belt,Accessories,912,75,35,Missouri,2.6
+927,12/12/2022,10:54:00 PM,Swanky Stylehub,46,Shoes,Footwear,1500,2000,142,Georgia,2.6
+928,12/12/2022,9:29:00 PM,Razia's Museum,34,Scarf,Accessories,1000,92,19,Arizona,4.8
+929,12/12/2022,9:56:00 PM,2ï¿½s Closet,51,Blouse,Clothing,1600,3200,163,New Hampshire,3.2
+930,12/12/2022,7:59:00 PM,3F Dresses,26,Dress,Clothing,536,94,12,Georgia,4.9
+931,12/12/2022,10:55:00 PM,Cloud Revel,23,Shorts,Clothing,1000,83,23,California,3.4
+932,12/12/2022,9:34:00 PM,Budget Queen,52,Blouse,Clothing,1200,105,84,Arizona,2.7
+933,12/12/2022,5:36:00 PM,Royal Malabar Lifestyle – Fashion Mall,39,Sneakers,Footwear,1300,62,24,Florida,4.8
+934,12/13/2022,11:37:00 PM,Showkhin,39,Gloves,Accessories,1800,934,676,New York,4.1
+935,12/13/2022,9:03:00 PM,RL Fashions,33,Hoodie,Clothing,1100,3200,97,Idaho,4.6
+936,12/14/2022,12:52:00 PM,RL Fashions,33,Sweater,Clothing,492,48,81,Virginia,4.4
+937,12/14/2022,10:12:00 PM,Halum Craft,23,Sunglasses,Accessories,776,53,41,Michigan,3.5
+938,12/14/2022,10:41:00 PM,Style Index,31,Belt,Accessories,577,172,495,New Hampshire,4.8
+939,12/14/2022,10:39:00 PM,Closet by Susmita,27,Dress,Clothing,1800,2100,486,South Dakota,2.9
+940,12/14/2022,8:09:00 PM,Noori,48,Jacket,Outerwear,1200,3400,489,South Dakota,3.2
+941,12/14/2022,7:28:00 PM,Pabna Benarashi Museum,61,Boots,Footwear,306,88,14,New Jersey,4.4
+942,12/15/2022,5:04:00 PM,Modern Mood by Lamia,63,Sandals,Footwear,610,41,7,Wyoming,4.6
+943,12/15/2022,2:47:00 PM,Fashion Prangon,19,Scarf,Accessories,3400,3700,191,Alabama,2.6
+944,12/15/2022,9:22:00 PM,Thread&Style by Ivy,21,Blouse,Clothing,515,55,13,South Dakota,3.1
+945,12/15/2022,12:08:00 PM,Unique Fashion,28,Hoodie,Clothing,2900,694,1000,South Carolina,4.3
+946,12/15/2022,10:38:00 AM,Purpelite,29,Sunglasses,Accessories,2100,4300,492,New Mexico,3.1
+947,12/16/2022,10:26:00 PM,Women'Z CLUB,23,Hoodie,Clothing,277,31,6,Connecticut,4.6
+948,12/16/2022,3:34:00 PM,Shopping Mania,37,Scarf,Accessories,696,83,14,Kansas,4.6
+949,12/16/2022,6:11:00 PM,Bengal Diamond Limited,67,Dress,Clothing,916,326,52,South Carolina,2.7
+950,12/16/2022,9:56:00 PM,DOOGdoogi,34,T-shirt,Clothing,1200,87,12,North Carolina,3
+951,12/16/2022,12:52:00 PM,Luxury Gallery 2,58,Skirt,Clothing,864,102,84,Wyoming,3.3
+952,12/16/2022,8:37:00 PM,???????-Swarupa ????? ???????,45,Jeans,Clothing,4000,4000,401,Louisiana,2.7
+953,12/17/2022,11:18:00 PM,Orange Fashion BD,63,Hoodie,Clothing,361,108,16,Louisiana,3.3
+954,12/17/2022,11:07:00 PM,Bengali Art,68,Jeans,Clothing,338,22,11,Alabama,4.3
+955,12/17/2022,5:21:00 PM,Affordable,41,Sandals,Footwear,1400,4300,177,Minnesota,4.8
+956,12/17/2022,10:25:00 PM,Lesia by Farzana,50,Hat,Accessories,913,1300,69,New Mexico,3.3
+957,12/18/2022,2:49:00 PM,Nusrat's exclusive collection,24,Gloves,Accessories,6200,5700,536,Tennessee,4.3
+958,12/18/2022,12:50:00 PM,Salvia's,21,Socks,Clothing,1000,112,26,New Mexico,3
+959,12/19/2022,9:48:00 PM,Trendy Classic Things,18,Jacket,Outerwear,795,153,11,Texas,4.8
+960,12/19/2022,10:26:00 PM,EM attire,63,T-shirt,Clothing,437,65,167,Washington,2.9
+961,12/19/2022,9:42:00 PM,Pretty & Needs,47,Sandals,Footwear,681,69,31,Michigan,3.6
+962,12/19/2022,10:41:00 PM,TOT,58,Hat,Accessories,958,112,22,Minnesota,3.5
+963,12/20/2022,9:46:00 PM,BD Choice,46,Gloves,Accessories,282,44,5,Delaware,4.7
+964,12/20/2022,2:45:00 PM,Afsheen By Sheikh,35,Dress,Clothing,3400,1000,149,California,4.4
+965,12/20/2022,7:00:00 PM,Glamour World by Jannat,42,Hoodie,Clothing,1600,687,43,Wisconsin,3.3
+966,12/20/2022,2:32:00 PM,OFRA MART,48,Belt,Accessories,1400,4000,555,Kentucky,4.3
+967,12/21/2022,10:29:00 PM,Dear Princess,28,Gloves,Accessories,526,101,11,Nevada,4
+968,12/21/2022,9:49:00 PM,Lucky Finds,44,Scarf,Accessories,1000,51,35,North Carolina,4.9
+969,12/21/2022,8:36:00 PM,Tab'z Collection,60,Sandals,Footwear,797,79,30,Louisiana,2.9
+970,12/21/2022,10:09:00 PM,J-Beauty by Kirei,38,Sneakers,Footwear,1700,9200,1000,New Jersey,4
+971,12/22/2022,10:09:00 PM,Clothing Express,46,Dress,Clothing,305,60,133,Wisconsin,4.3
+972,12/22/2022,10:45:00 PM,Women'Z CLUB,39,Jewelry,Accessories,479,50,8,Arkansas,2.7
+973,12/22/2022,11:13:00 PM,Himu's Collection,22,Hat,Accessories,776,55,34,Texas,5
+974,12/22/2022,9:13:00 PM,Style Secrets,44,Scarf,Accessories,1000,89,36,Illinois,4.4
+975,12/22/2022,7:03:00 PM,JK Foreign Brands,69,Blouse,Clothing,1900,4400,523,Mississippi,3.5
+976,12/22/2022,9:42:00 PM,Western Carnival,39,Belt,Accessories,411,32,11,Delaware,3.3
+977,12/22/2022,7:39:00 PM,Suma's Attire,53,Blouse,Clothing,1500,40,27,Georgia,3.8
+978,12/23/2022,8:48:00 PM,Inteblu,52,T-shirt,Clothing,1500,7200,1000,Kansas,4.5
+979,12/24/2022,5:03:00 PM,B+ plus,65,Hat,Accessories,2200,413,619,Oklahoma,4.8
+980,12/25/2022,11:11:00 PM,SNS Global,48,Hat,Accessories,1400,306,16,New Jersey,2.9
+981,12/25/2022,5:49:00 PM,I.K Jewellers Ltd.,27,Sneakers,Footwear,892,70,63,Utah,3.2
+982,12/26/2022,9:05:00 PM,Butterfly Dress Zone,39,Gloves,Accessories,1300,139,36,Montana,2.8
+983,12/26/2022,5:58:00 PM,Karigor Craft,59,Socks,Clothing,49000,2200,304,Ohio,3.3
+984,12/26/2022,7:29:00 PM,SR Fashion Mart,52,Sandals,Footwear,385,81,15,Colorado,3.3
+985,12/26/2022,10:14:00 PM,Classy Bags,50,Sandals,Footwear,1000,53,22,California,4.2
+986,12/26/2022,9:39:00 PM,TTouch Clothing,32,Boots,Footwear,756,110,26,Utah,3.6
+987,12/27/2022,12:40:00 PM,Miss Glorious,40,Backpack,Accessories,604,153,104,Kansas,4.6
+988,12/27/2022,12:04:00 AM,A&A Chocolates,26,Coat,Outerwear,753,66,20,Illinois,3.6
+989,12/28/2022,10:27:00 AM,SB Collection,47,Sunglasses,Accessories,399,67,76,Minnesota,4
+990,12/28/2022,4:27:00 PM,Nilima,51,Jacket,Outerwear,3800,6500,1500,New York,2.7
+991,12/29/2022,11:41:00 PM,Pretty & Needs,47,Dress,Clothing,781,64,32,Arizona,4.4
+992,12/29/2022,11:16:00 PM,Tailor With Allo,53,Scarf,Accessories,790,75,25,Tennessee,3.2
+993,12/29/2022,10:39:00 PM,Maheroo Style,35,Blouse,Clothing,602,51,21,Arkansas,2.6
+994,12/29/2022,10:08:00 PM,ABN Destination ,38,Backpack,Accessories,679,73,54,Colorado,3.4
+995,12/29/2022,9:37:00 PM,Style with Swish,69,Jewelry,Accessories,793,91,26,Nevada,5
+996,12/30/2022,11:23:00 PM,Blue Dot Shopping,47,Shorts,Clothing,569,30,10,Kansas,2.9
+997,12/30/2022,2:17:00 PM,Shaheba Fashion's Two,31,Skirt,Clothing,414,126,22,New York,5
+998,12/31/2022,10:56:00 PM,RP Shopping Zone,68,Skirt,Clothing,735,54,13,Minnesota,4.4
+999,12/31/2022,10:24:00 PM,Cloth Zone By Prema,51,Jeans,Clothing,637,40,18,Ohio,3.5
+1000,12/31/2022,9:36:00 PM,Al'azya,20,Handbag,Accessories,895,70,23,Arizona,3.8
+1001,04/11/2022,3:17:00 PM,Bonolota,27,Handbag,Accessories,2000,1300,115,Kentucky,3.8
+1002,04/12/2022,7:55:00 PM,Mystique Glint,67,Coat,Outerwear,3600,1800,219,Minnesota,3.9
+1003,04/12/2022,5:05:00 PM,Face of Korea,21,Jewelry,Accessories,3600,2200,110,Arkansas,3.3
+1004,04/12/2022,8:36:00 PM,Khan Brothers,20,Sweater,Clothing,473,94,26,Wyoming,2.9
+1005,04/12/2022,11:12:00 PM,Carnesia,35,Jacket,Outerwear,4000,2600,103,North Dakota,3.7
+1006,04/12/2022,9:33:00 PM,Dorado Bangladesh,58,Shoes,Footwear,2500,2300,114,Alabama,3.7
+1007,04/12/2022,8:38:00 PM,Shohodor Fashion,28,T-shirt,Clothing,556,608,482,Mississippi,4.6
+1008,04/12/2022,10:00:00 PM,Orchild-redefine beauty,27,Sandals,Footwear,2100,323,102,Illinois,4.9
+1009,04/12/2022,11:08:00 PM,Khandani Khanapina ,19,Shoes,Footwear,2300,1500,102,Arkansas,3.1
+1010,04/12/2022,9:46:00 PM,Tarana's Fashion World,63,Sandals,Footwear,3200,1000,42,Kansas,3.5
+1011,06/02/2022,11:08:00 PM,Urbi,69,Shorts,Clothing,576,150,111,Rhode Island,4.9
+1012,06/04/2022,9:34:00 PM,Plaboni's Fashion Gallery,65,Backpack,Accessories,575,207,14,Florida,4.4
+1013,06/06/2022,9:48:00 PM,Delicious Cake Bake,63,Jacket,Outerwear,1200,141,19,Missouri,4.4
+1014,06/07/2022,5:11:00 PM,Angels by Jamila Bristy,28,Socks,Clothing,1900,988,58,North Carolina,3.4
+1015,06/08/2022,6:01:00 PM,Jiniya Creation,67,Jewelry,Accessories,1000,145,36,Alabama,3
+1016,06/08/2022,11:29:00 PM,Niton Diamond,51,Pants,Clothing,2000,412,20,Washington,2.6
+1017,06/10/2022,5:36:00 PM,RAID,59,Blouse,Clothing,2200,478,67,Michigan,3.2
+1018,06/11/2022,7:08:00 PM,Abaya Closet,25,Socks,Clothing,1500,91,37,Washington,4.6
+1019,06/11/2022,7:54:00 PM,The Mart Bangladesh,31,Shoes,Footwear,1500,60,14,Vermont,3.8
+1020,06/12/2022,9:47:00 PM,Zircon,62,Handbag,Accessories,537,329,35,Illinois,4.8
+1021,07/02/2022,8:33:00 PM,Sananda Fashion,51,Sandals,Footwear,879,140,37,New York,4.5
+1022,07/02/2022,9:10:00 PM,Nahida Fashion House,32,Socks,Clothing,212,25,11,Rhode Island,4.2
+1023,07/04/2022,4:23:00 PM,BABON,35,Handbag,Accessories,762,230,11,Washington,2.7
+1024,08/03/2022,9:22:00 PM,Mulkzade,70,Hat,Accessories,2200,2000,103,Virginia,4.5
+1025,08/03/2022,10:38:00 PM,Flounce,19,Jewelry,Accessories,306,78,13,Wisconsin,4.9
+1026,08/04/2022,10:43:00 PM,Nurjahan's,32,Backpack,Accessories,762,1700,286,Michigan,2.8
+1027,08/05/2022,6:01:00 PM,Clovelly Trend,56,Shirt,Clothing,8000,3400,187,Texas,3.5
+1028,08/05/2022,7:54:00 PM,La Vencee,53,Coat,Outerwear,4300,3700,423,Idaho,2.5
+1029,08/05/2022,9:40:00 PM,Diamond Corner,22,Sunglasses,Accessories,4300,2400,180,Iowa,2.9
+1030,08/05/2022,9:11:00 PM,Baking Tools Cumilla,26,Gloves,Accessories,186,68,4,Connecticut,4.2
+1031,08/06/2022,9:19:00 PM,Perfecto,42,Shirt,Clothing,905,1800,157,Wyoming,4.6
+1032,08/07/2022,9:20:00 PM,Reasonable Fashion by Ani,30,Socks,Clothing,1000,239,108,Mississippi,3
+1033,08/07/2022,5:08:00 PM,Style by Tanzi,29,Skirt,Clothing,1000,347,14,Pennsylvania,4.4
+1034,08/08/2022,10:40:00 PM,Mollywaiz,47,Shorts,Clothing,883,54,26,Tennessee,2.6
+1035,08/08/2022,9:35:00 PM,Sunnah,59,Sandals,Footwear,381,97,36,Louisiana,4.8
+1036,08/08/2022,8:37:00 PM,La Ta Ra,34,Shirt,Clothing,5100,2900,203,Arkansas,2.9
+1037,08/09/2022,9:51:00 PM,SLN Fashion,52,Sunglasses,Accessories,391,61,7,West Virginia,3
+1038,08/10/2022,11:18:00 PM,Nuqi ShopBD,47,Jewelry,Accessories,781,103,12,South Carolina,4.5
+1039,08/10/2022,10:28:00 PM,Anady's,24,Blouse,Clothing,1700,258,20,Kansas,3.7
+1040,08/10/2022,4:39:00 PM,Trendy Beauty Lover,63,Sandals,Footwear,3600,3100,192,Michigan,4.8
+1041,08/11/2022,11:11:00 PM,Blossom & Bubbsle,59,Coat,Outerwear,5400,9500,319,Alabama,4.8
+1042,08/11/2022,10:10:00 PM,Taheer Boutique,66,Blouse,Clothing,267,24,9,South Dakota,4.7
+1043,08/11/2022,8:57:00 AM,Exclusive Warebd,45,Sweater,Clothing,531,78,11,Rhode Island,2.6
+1044,08/12/2022,9:47:00 PM,Darawiz,38,Skirt,Clothing,1000,551,453,Florida,4.6
+1045,09/01/2022,9:11:00 PM,Dobazar.com,63,Blouse,Clothing,764,176,154,Connecticut,3.4
+1046,09/03/2022,4:46:00 PM,Limas Beauty Shop,55,Hoodie,Clothing,1000,292,45,Pennsylvania,3
+1047,09/03/2022,10:29:00 PM,Shimla Abaya Collection,25,Skirt,Clothing,664,124,11,California,4
+1048,09/03/2022,8:21:00 PM,Eye Mind Valley,51,Backpack,Accessories,299,78,6,Oklahoma,2.6
+1049,09/04/2022,9:46:00 PM,Girl?s Hood,28,Handbag,Accessories,1900,2700,162,North Dakota,3.4
+1050,09/04/2022,10:10:00 PM,Hello pretties,46,Sandals,Footwear,469,66,7,New Mexico,4.5
+1051,09/04/2022,9:31:00 PM,Aohon Bari,58,Shoes,Footwear,1400,591,24,South Carolina,2.7
+1052,09/05/2022,10:11:00 PM,Karukonna,30,Sandals,Footwear,2000,85,43,Michigan,2.9
+1053,09/05/2022,10:03:00 PM,Iraniya Herbal Beauty Solution,68,Sunglasses,Accessories,509,90,21,Missouri,4
+1054,09/05/2022,10:30:00 PM,Da Gorgeous Collection,28,Skirt,Clothing,980,121,18,Colorado,3.2
+1055,09/06/2022,4:39:00 PM,Choosett,26,Sandals,Footwear,2400,1300,103,Kansas,4
+1056,09/07/2022,9:24:00 PM,Hater Chowa,35,Gloves,Accessories,802,183,33,Illinois,3.4
+1057,09/09/2022,11:01:00 PM,Trendy Beauty Lovers,40,Hoodie,Clothing,2100,452,40,South Carolina,4.9
+1058,09/09/2022,11:43:00 PM,Alyal's,31,Socks,Clothing,622,58,12,Utah,3.6
+1059,09/09/2022,7:23:00 PM,Glam Closet,60,Jewelry,Accessories,1000,346,34,Hawaii,3.6
+1060,09/09/2022,9:15:00 PM,Sainika's Fashion House,69,Hat,Accessories,748,423,475,Texas,3.2
+1061,09/12/2022,8:05:00 PM,Jhinuk's Collection ,51,Blouse,Clothing,749,1100,432,Oregon,3.7
+1062,09/12/2022,8:24:00 PM,erasiasupplies.com,49,Shoes,Footwear,1400,188,32,Arizona,2.6
+1063,10/01/2022,8:30:00 AM,Shari Ghor,18,Hat,Accessories,600,194,172,New York,3.9
+1064,10/02/2022,10:25:00 AM,Apsara by Antara,63,Sunglasses,Accessories,596,446,460,Nebraska,3.4
+1065,10/02/2022,9:33:00 PM,TPHLOX,57,Shirt,Clothing,615,99,187,Vermont,3.4
+1066,10/05/2022,10:06:00 PM,Ismita Lifestyle,45,T-shirt,Clothing,891,366,468,Maryland,4.2
+1067,10/06/2022,8:50:00 PM,Makeup Chari,36,Pants,Clothing,2600,2800,403,Tennessee,2.9
+1068,10/08/2022,9:10:00 PM,Limited Edition BD,20,Pants,Clothing,107,137,440,Pennsylvania,4.1
+1069,10/10/2022,10:26:00 PM,Uronto,21,Hat,Accessories,413,154,60,South Carolina,3.6
+1070,10/11/2022,10:08:00 PM,Heyza,62,Coat,Outerwear,10000,2400,197,Connecticut,4
+1071,10/11/2022,7:35:00 PM,Pearl Palace,23,Jacket,Outerwear,216,60,10,Kentucky,4
+1072,10/11/2022,8:36:00 PM,Desire-Your Modest Lifestyle,26,Sandals,Footwear,1800,284,34,Rhode Island,3.6
+1073,10/12/2022,11:35:00 PM,SHIJANG,30,Gloves,Accessories,26000,2600,795,Colorado,3.1
+1074,10/12/2022,11:05:00 AM,SHUNDOR,18,Dress,Clothing,11000,15000,150,Oklahoma,4.4
+1075,10/13/2022,4:02:00 PM,Meganil,47,Belt,Accessories,8700,643,20,Idaho,4.3
+1076,10/13/2022,10:57:00 PM,Luxique,41,Socks,Clothing,157,52,3,Maine,3.5
+1077,10/13/2022,3:42:00 AM,Borka World,62,Jacket,Outerwear,409,369,18,Vermont,3
+1078,10/13/2022,3:41:00 PM,Be Beautiful 2,28,Boots,Footwear,492,82,5,Rhode Island,4.7
+1079,10/14/2022,10:38:00 PM,Fashion By Arora,46,Shirt,Clothing,456,313,22,Florida,2.5
+1080,10/16/2022,7:38:00 PM,Adiyat,54,Hat,Accessories,811,272,17,West Virginia,3.1
+1081,10/16/2022,10:14:00 PM,Mehedi By Nowrin,36,Shoes,Footwear,20000,4400,701,Indiana,3.3
+1082,10/16/2022,8:30:00 PM,Mojar Toh,25,Socks,Clothing,229,66,6,Illinois,4.7
+1083,10/16/2022,1:51:00 PM,Dhakaiya's Homemade Food,38,Hoodie,Clothing,250,127,138,California,3.4
+1084,10/16/2022,11:14:00 PM,Gems Gallery & Diamond,38,Sandals,Footwear,2500,641,110,Massachusetts,3.1
+1085,10/16/2022,7:49:00 PM,Hijab Prio,42,Jeans,Clothing,1100,174,19,Idaho,4.6
+1086,10/17/2022,10:35:00 PM,Deshi Shari,19,Jewelry,Accessories,184,62,62,Kentucky,4.9
+1087,10/18/2022,10:22:00 PM,Fast Value BD,34,Shorts,Clothing,1000,54,38,Delaware,2.7
+1088,10/19/2022,8:36:00 PM,Bismillah Fashion by Sonia,38,Sunglasses,Accessories,7400,3600,145,Idaho,4.2
+1089,10/19/2022,4:53:00 PM,Estella,42,Pants,Clothing,1000,309,504,Virginia,2.6
+1090,10/20/2022,7:04:00 PM,Korean Mart - Bangladesh,58,Shirt,Clothing,284,78,8,Arizona,3.2
+1091,10/20/2022,10:07:00 PM,Peach & Pink,56,Shirt,Clothing,691,99,17,Maryland,4.4
+1092,10/20/2022,9:54:00 PM,Fashion By Zainab,62,Pants,Clothing,4200,9600,773,Idaho,3.6
+1093,10/22/2022,9:59:00 PM,Dui Konna,24,Hoodie,Clothing,1900,3600,388,New Jersey,2.7
+1094,10/23/2022,9:54:00 PM,Tarani Borkha Bazar,60,Socks,Clothing,881,111,23,Washington,4.3
+1095,10/23/2022,10:51:00 PM,Hijab Fashion wholesale BD,53,Coat,Outerwear,4900,1600,85,Idaho,2.6
+1096,10/23/2022,11:55:00 PM,Meganil,26,Sweater,Clothing,2400,3100,383,Rhode Island,4.3
+1097,10/23/2022,8:29:00 PM,Waania,34,Backpack,Accessories,857,332,60,Delaware,3.9
+1098,10/24/2022,10:09:00 PM,ThirdEye Shoppers,24,Blouse,Clothing,1700,4000,361,Alaska,2.9
+1099,10/25/2022,11:44:00 PM,Be Princess,42,Hoodie,Clothing,353,219,161,Arizona,3.1
+1100,10/27/2022,3:21:00 PM,Ehan's,36,Jewelry,Accessories,470,122,484,Alabama,4.2
+1101,10/28/2022,12:19:00 PM,Arisha Fashion House,24,Coat,Outerwear,508,88,26,Washington,4.1
+1102,10/28/2022,5:54:00 AM,Make You Up by Fairuz's,39,Sunglasses,Accessories,229,159,392,Louisiana,4.2
+1103,10/30/2022,7:25:00 PM,Styliya,46,Shoes,Footwear,312,156,18,Nebraska,4.4
+1104,10/31/2022,10:00:00 PM,Cooking Stove,64,Skirt,Clothing,361,154,9,Pennsylvania,3.4
+1105,11/01/2022,12:23:00 PM,Trend & Style Zone,64,Skirt,Clothing,5600,5600,530,South Carolina,4.8
+1106,11/01/2022,12:00:00 PM,Bithy's Gallery,61,Skirt,Clothing,124,22,11,California,4.5
+1107,11/02/2022,10:19:00 AM,Maheroo Style,61,Sandals,Footwear,2900,1300,129,Indiana,2.7
+1108,11/02/2022,9:22:00 PM,BABON,44,Sneakers,Footwear,1400,1100,40,Missouri,3.5
+1109,11/02/2022,8:34:00 PM,Feature,65,Socks,Clothing,4500,1600,72,Connecticut,3.1
+1110,11/03/2022,8:55:00 PM,Style by Tanzi,60,Backpack,Accessories,4800,1500,21,Nevada,2.8
+1111,11/03/2022,6:38:00 PM,Imsak Shop Bf,65,Shorts,Clothing,490,85,13,New York,2.9
+1112,11/03/2022,10:41:00 PM,Karu's Closet,27,Shirt,Clothing,14000,2900,126,Oklahoma,4.5
+1113,11/03/2022,11:19:00 PM,Anika Fashion House ,36,Socks,Clothing,537,101,13,South Dakota,3.5
+1114,11/03/2022,8:33:00 PM,Mariyam's Ev,22,Jewelry,Accessories,1000,188,14,Missouri,4.3
+1115,11/03/2022,10:10:00 PM,Colonsoi,62,Handbag,Accessories,184,89,5,Texas,4.9
+1116,11/04/2022,10:33:00 PM,Maisha's-Raiment,59,Shorts,Clothing,2300,3600,365,New York,3.1
+1117,11/04/2022,11:02:00 PM,Sarafan's Boutique,50,Sweater,Clothing,350,38,1,Vermont,4
+1118,11/05/2022,10:59:00 PM,PoroshmoniShari,51,Gloves,Accessories,1400,125,50,Arizona,3.6
+1119,11/05/2022,8:48:00 PM,6 Season's Gallery,23,Pants,Clothing,4900,1700,208,Montana,4
+1120,11/05/2022,7:20:00 PM,StyleE,21,T-shirt,Clothing,773,108,32,Oklahoma,2.6
+1121,11/05/2022,9:49:00 PM,Mohsina's closet,44,Pants,Clothing,585,168,24,New Hampshire,3.1
+1122,11/06/2022,4:04:00 PM,Hijabiana,25,Sweater,Clothing,4500,403,48,Wisconsin,3.5
+1123,11/06/2022,5:06:00 PM,Colors by Liuny,57,Gloves,Accessories,6900,2000,43,Alaska,3.9
+1124,11/06/2022,7:49:00 PM,Stylea,41,Belt,Accessories,580,124,28,South Dakota,2.7
+1125,11/06/2022,10:57:00 PM,Khanapina ,19,Sneakers,Footwear,585,122,3,Alaska,4.1
+1126,11/06/2022,4:08:00 PM,Rapaj Creation,43,Shorts,Clothing,536,181,18,Utah,4.3
+1127,11/07/2022,9:57:00 PM,Doogdoogi,25,Sneakers,Footwear,901,268,431,South Dakota,2.9
+1128,11/07/2022,11:30:00 PM,Budget Queen,60,Jeans,Clothing,3500,1600,87,California,4
+1129,11/08/2022,8:31:00 PM,Rimjhim,54,Sneakers,Footwear,274,138,23,Mississippi,4.1
+1130,11/08/2022,4:08:00 PM,Shop.glamozen,52,Boots,Footwear,386,44,1,Tennessee,3.7
+1131,11/08/2022,5:54:00 PM,Blinqle,40,Jacket,Outerwear,624,75,18,Alabama,2.8
+1132,11/09/2022,8:11:00 PM,The Look Book,39,Gloves,Accessories,1300,284,401,Maine,3.2
+1133,11/09/2022,9:51:00 PM,Fari's armoire,54,Socks,Clothing,17000,756,595,Virginia,4.5
+1134,11/10/2022,4:14:00 PM,Amoree The Beauty House,64,Jeans,Clothing,1900,1100,27,New Hampshire,3.8
+1135,11/10/2022,8:51:00 PM,Anzum's Pastry Corner,31,Boots,Footwear,80000,6900,2500,Tennessee,3.6
+1136,11/10/2022,6:41:00 PM,Ummah's Kitchen,37,Blouse,Clothing,306,260,468,New York,3.6
+1137,11/10/2022,11:09:00 PM,Manic By Rabia,43,Hat,Accessories,1500,390,592,Kansas,3.2
+1138,11/12/2022,5:46:00 PM,Creamerio,56,Shirt,Clothing,438,49,16,North Dakota,3.8
+1139,11/14/2022,9:35:00 PM,Classy Zone,27,Handbag,Accessories,10000,4600,1400,Alaska,4.4
+1140,11/14/2022,9:17:00 PM,Miraan ,40,Sunglasses,Accessories,966,476,7,Texas,3.7
+1141,11/14/2022,10:37:00 PM,Wear,43,Scarf,Accessories,948,218,23,Massachusetts,2.6
+1142,11/14/2022,11:18:00 PM,Faria's Fashion BD,62,Sunglasses,Accessories,415,357,53,Delaware,4
+1143,11/14/2022,11:03:00 PM,Kingsvisionbd.Com,44,Scarf,Accessories,544,72,2,South Dakota,3.6
+1144,11/15/2022,7:36:00 PM,MAJESTICA,45,Gloves,Accessories,589,58,23,Arkansas,2.5
+1145,11/16/2022,10:24:00 PM,BBG Lifestyle,40,Shorts,Clothing,722,300,989,Utah,3.2
+1146,11/16/2022,5:28:00 PM,The Dessert Corner,68,Sunglasses,Accessories,461,359,14,California,2.5
+1147,11/16/2022,7:48:00 PM,Nosepin World,63,Jewelry,Accessories,1000,215,94,Rhode Island,3.2
+1148,11/17/2022,11:23:00 PM,Silver Coin,60,Jacket,Outerwear,9900,6300,3200,Oklahoma,2.6
+1149,11/17/2022,10:19:00 PM,Chinese Fashion Hub,19,Sweater,Clothing,5800,1900,125,Vermont,4.8
+1150,11/17/2022,2:32:00 PM,Sanvee's Dream,26,Blouse,Clothing,26000,4600,850,Kentucky,5
+1151,11/17/2022,10:51:00 PM,Cosmetiva,70,Scarf,Accessories,1200,539,23,Illinois,3.2
+1152,11/17/2022,9:46:00 PM,Sreyoshi,48,Handbag,Accessories,2100,6100,2000,Connecticut,3.6
+1153,11/17/2022,10:02:00 PM,Simrin Designer's Choice,37,Hat,Accessories,2000,7500,1800,Florida,2.7
+1154,11/18/2022,2:52:00 PM,Pure Bake BD,48,Scarf,Accessories,5400,11000,2000,New Jersey,3.1
+1155,11/18/2022,4:46:00 PM,HamaanDista,18,Boots,Footwear,394,66,9,Missouri,3
+1156,11/18/2022,6:09:00 PM,GoodiesDeal,38,Blouse,Clothing,14000,3000,597,Michigan,2.9
+1157,11/18/2022,7:43:00 PM,GlamDust,33,Socks,Clothing,893,360,54,Washington,4.7
+1158,11/18/2022,10:28:00 PM,Mahiya's Collection,57,Shoes,Footwear,2400,9200,2000,New York,3.7
+1159,11/19/2022,1:44:00 PM,Shopaholic We,46,Skirt,Clothing,350,64,14,Wisconsin,3.9
+1160,11/19/2022,9:53:00 PM,Henna By Methila ,46,Belt,Accessories,339,66,11,Idaho,4
+1161,11/19/2022,3:40:00 PM,Belassea BD,50,Skirt,Clothing,1100,152,37,Michigan,2.8
+1162,11/19/2022,9:31:00 PM,Taazra,61,Pants,Clothing,628,60,118,Georgia,4.1
+1163,11/19/2022,8:49:00 PM,Clothing Express,45,Dress,Clothing,4500,1500,287,Michigan,4.2
+1164,11/19/2022,11:22:00 PM,Jotey,32,Hat,Accessories,849,403,11,Maine,4.3
+1165,11/19/2022,10:35:00 PM,ZaynMyza Bangladesh,29,Coat,Outerwear,634,126,25,Maryland,4.3
+1166,11/19/2022,8:28:00 PM,Twin's Butterfly,66,Scarf,Accessories,523,64,18,Missouri,2.6
+1167,11/20/2022,3:57:00 PM,BBG Lifestyle,70,Sneakers,Footwear,655,291,475,Oregon,3.8
+1168,11/22/2022,6:51:00 PM,Nurjahan's,36,Pants,Clothing,7800,1700,201,Arkansas,2.9
+1169,11/22/2022,6:20:00 PM,Focallure Bangladesh,34,Belt,Accessories,1100,3900,579,New Hampshire,5
+1170,11/22/2022,4:07:00 PM,Labony Fashion,20,Sneakers,Footwear,1500,6400,420,Oregon,4.6
+1171,11/22/2022,7:56:00 PM,BD Beauty Glamorous,70,Hat,Accessories,2500,4200,273,Kansas,3.2
+1172,11/23/2022,4:37:00 PM,Korean Mart - Bangladesh,50,Shirt,Clothing,1500,193,20,California,3
+1173,11/23/2022,7:39:00 PM,Sarafan's Boutique,54,Shorts,Clothing,450,43,21,Georgia,4
+1174,11/24/2022,9:03:00 PM,JK Foreign Brands,49,Shorts,Clothing,1200,519,125,Hawaii,4.1
+1175,11/24/2022,4:14:00 PM,Dressed By Rumpa,50,Jacket,Outerwear,1400,4900,251,Montana,4
+1176,11/24/2022,10:02:00 PM,Top BD Bazar,62,Jewelry,Accessories,1400,2900,109,Montana,4.1
+1177,11/25/2022,9:25:00 PM,Urbi,42,Blouse,Clothing,1600,5800,309,Mississippi,3.4
+1178,11/26/2022,7:13:00 PM,Essence of Silk,69,Pants,Clothing,3400,1500,64,Washington,2.9
+1179,11/26/2022,2:42:00 PM,Najia's Bucketlish,22,Hat,Accessories,1700,664,65,Pennsylvania,3
+1180,11/26/2022,8:40:00 PM,ELA ALI,36,Backpack,Accessories,4200,1400,55,Nevada,4
+1181,11/26/2022,8:29:00 PM,Emotion Bazaar,64,Boots,Footwear,545,210,486,Kansas,4.8
+1182,11/27/2022,11:36:00 PM,Emporium JFP,44,Jacket,Outerwear,20000,2600,231,Arizona,4.6
+1183,11/27/2022,9:55:00 PM,ZeluXia BD,43,Hoodie,Clothing,2700,4200,428,Tennessee,4.1
+1184,11/27/2022,10:36:00 PM,Ogerio.com,58,Sandals,Footwear,1200,3600,178,Pennsylvania,2.6
+1185,11/27/2022,7:27:00 AM,The Lafz,62,Skirt,Clothing,1100,4800,317,Alaska,2.5
+1186,11/28/2022,12:59:00 PM,Ohona's Dream World,45,Hoodie,Clothing,1600,8300,287,New Mexico,4.8
+1187,11/29/2022,11:43:00 PM,My Lovely Kitchen,47,Dress,Clothing,1200,5100,2000,Rhode Island,4.2
+1188,12/01/2022,10:37:00 PM,Cook with Musafa,66,Sandals,Footwear,643,139,19,Connecticut,3.9
+1189,12/01/2022,7:09:00 PM,Beautysiaa,30,Jeans,Clothing,372,58,12,Idaho,3.7
+1190,12/01/2022,6:00:00 PM,My Collection,68,Jeans,Clothing,3000,593,39,Mississippi,4.2
+1191,12/01/2022,10:13:00 PM,Try dry Fish,35,Jacket,Outerwear,481,111,61,Colorado,4.2
+1192,12/02/2022,7:20:00 PM,Trendy Beauty Lover,64,Hat,Accessories,2600,589,27,Georgia,4
+1193,12/02/2022,6:12:00 PM,Spark N Shine,30,Shorts,Clothing,3300,4700,216,Montana,5
+1194,12/02/2022,7:54:00 PM,Dohora,58,Sweater,Clothing,1300,5800,1200,California,4.9
+1195,12/03/2022,9:09:00 AM,The Lafz,57,Blouse,Clothing,258,57,3,Pennsylvania,4
+1196,12/03/2022,10:31:00 PM,Emporium by Ayaat,60,Sweater,Clothing,2300,169,52,Delaware,3.2
+1197,12/03/2022,6:38:00 PM,JWAF- Our Design Your Desire,22,Jewelry,Accessories,441,80,28,New Hampshire,3
+1198,12/04/2022,8:00:00 PM,ALLER,46,Hoodie,Clothing,1900,15000,2200,Florida,2.6
+1199,12/06/2022,10:19:00 PM,Groundist,27,Jewelry,Accessories,865,410,55,Mississippi,4.4
+1200,12/06/2022,6:33:00 PM,Max's Shoppers,50,Scarf,Accessories,252,151,491,Montana,3.9
+1201,12/07/2022,7:12:00 PM,Antara's Closet,65,Hat,Accessories,309,38,4,Mississippi,4
+1202,12/07/2022,6:58:00 PM,Magnific Mart,61,Sunglasses,Accessories,232,45,24,Tennessee,4
+1203,12/07/2022,4:06:00 PM,NOTE Cosmetics Bangladesh,57,T-shirt,Clothing,424,55,34,Florida,4.2
+1204,12/07/2022,8:45:00 PM,Dress Maker,40,Shirt,Clothing,2900,3600,146,Illinois,4.4
+1205,12/08/2022,5:28:00 PM,A.S Classic Fashion,39,Sandals,Footwear,1400,1400,176,Virginia,2.5
+1206,12/08/2022,9:16:00 PM,La Ta Ra,42,Hat,Accessories,510,154,19,Texas,3.1
+1207,12/08/2022,10:48:00 PM,What You Like,30,T-shirt,Clothing,913,2400,83,Missouri,3.5
+1208,12/11/2022,10:16:00 PM,BlinqDrobe,65,Shorts,Clothing,1000,4200,217,Mississippi,3
+1209,12/11/2022,10:24:00 PM,Little Angels,57,Sunglasses,Accessories,6400,1300,125,Pennsylvania,4.4
+1210,12/11/2022,5:51:00 PM,UAE Haul BD,64,Jacket,Outerwear,558,162,26,Wyoming,4.9
+1211,12/12/2022,10:54:00 PM,BD Budget Beauty - BBB,56,Shirt,Clothing,1500,2500,144,Idaho,2.8
+1212,12/12/2022,9:29:00 PM,Hello Baby,40,Scarf,Accessories,5400,1200,77,New Hampshire,3.3
+1213,12/12/2022,9:56:00 PM,Amlaki,55,T-shirt,Clothing,4300,7400,2200,Wyoming,4.9
+1214,12/12/2022,7:59:00 PM,ZASKA,25,Shorts,Clothing,2500,4700,249,Nebraska,4.2
+1215,12/12/2022,10:55:00 PM,Exclusia,58,Hat,Accessories,1700,5200,242,Alaska,3.3
+1216,12/12/2022,9:34:00 PM,Nabila,46,Jacket,Outerwear,6500,2000,308,Maryland,2.7
+1217,12/12/2022,5:36:00 PM,Eziclick,18,Dress,Clothing,1000,4200,209,Maryland,3.3
+1218,12/13/2022,11:37:00 PM,Nurjahan's,26,Coat,Outerwear,5200,5500,352,Arizona,3.8
+1219,12/13/2022,9:03:00 PM,Ronger Uthan,61,Sandals,Footwear,1800,257,128,Ohio,3.2
+1220,12/14/2022,12:52:00 PM,Flourishes,55,T-shirt,Clothing,779,73,34,Minnesota,4.1
+1221,12/14/2022,10:12:00 PM,Face Place Shop,41,Jacket,Outerwear,372,61,113,New Hampshire,4.3
+1222,12/14/2022,10:41:00 PM,Fashion & Beauty by Tanima,42,Sandals,Footwear,2700,338,66,Louisiana,4
+1223,12/14/2022,10:39:00 PM,Ribana,70,Sweater,Clothing,924,127,88,Nevada,3.9
+1224,12/14/2022,8:09:00 PM,ABN Destination ,63,Hat,Accessories,631,90,14,New Hampshire,3.3
+1225,12/14/2022,7:28:00 PM,Snigdho Jamdani House,60,Shoes,Footwear,358,44,9,Wisconsin,2.6
+1226,12/15/2022,5:04:00 PM,Sarafan's Boutique,28,Hoodie,Clothing,512,96,12,Nevada,4.2
+1227,12/15/2022,9:22:00 PM,Diamond Museum,60,Hat,Accessories,6200,294,17,South Carolina,3.4
+1228,12/15/2022,10:38:00 AM,Best Branded Cosmetics in BD,26,Skirt,Clothing,392,62,34,Florida,4.1
+1229,12/16/2022,10:26:00 PM,Jamdani Kothon,42,Shirt,Clothing,545,64,11,Massachusetts,3.9
+1230,12/16/2022,3:34:00 PM,Glamours dream,56,Scarf,Accessories,3100,474,31,Georgia,2.8
+1231,12/16/2022,9:56:00 PM,Buy Genuine Products,35,Pants,Clothing,4600,163,87,North Dakota,2.6
+1232,12/16/2022,8:37:00 PM,VIVA,34,Hat,Accessories,580,99,15,North Dakota,4
+1233,12/17/2022,11:18:00 PM,JAHAN,47,Sandals,Footwear,504,136,28,Maryland,4.9
+1234,12/17/2022,11:07:00 PM,Hair Fun By Mehjabin Rinty,49,Socks,Clothing,580,99,15,New Mexico,3.2
+1235,12/17/2022,10:25:00 PM,BD Fashion Zone,37,Jewelry,Accessories,1200,60,14,Iowa,3.9
+1236,12/18/2022,2:49:00 PM,Arisha Fashion House,40,Shirt,Clothing,2900,5200,207,Kansas,2.7
+1237,12/19/2022,10:26:00 PM,GLAMOZEN,45,Sneakers,Footwear,937,2400,117,Virginia,3.4
+1238,12/20/2022,9:46:00 PM,Kashmiri Beauty By Jinnath,57,Dress,Clothing,2600,2900,137,Alaska,3.5
+1239,12/20/2022,2:45:00 PM,Eziclick,35,Shirt,Clothing,563,110,21,Nebraska,2.6
+1240,12/20/2022,7:00:00 PM,Just For Her,36,Dress,Clothing,670,119,53,Colorado,4.7
+1241,12/21/2022,10:29:00 PM,Carnesia,35,Jewelry,Accessories,898,157,37,Michigan,3.5
+1242,12/21/2022,9:49:00 PM,Carnesia,21,Hat,Accessories,3200,1500,46,Massachusetts,3.3
+1243,12/21/2022,8:36:00 PM,Pixie La Bella,66,Skirt,Clothing,1500,3500,341,Connecticut,3.9
+1244,12/22/2022,10:09:00 PM,Blackbird Boutiques,40,Hoodie,Clothing,4600,997,87,Virginia,4.2
+1245,12/22/2022,10:45:00 PM,Eziclick,52,Backpack,Accessories,1100,338,485,Iowa,4.5
+1246,12/22/2022,11:13:00 PM,Sarafan's Boutique,46,Belt,Accessories,4500,6600,429,New Jersey,2.9
+1247,12/22/2022,7:03:00 PM,Boots Keuze,44,Shoes,Footwear,580,99,,Minnesota,3.8
+1248,12/22/2022,9:42:00 PM,Eziclick,52,Handbag,Accessories,504,136,,California,3.1
